@@ -1,8 +1,8 @@
 {
   "city_name": "Out of MT",
   "state_name": "Montana",
-  "lat": "0.0",
-  "long": "0.0",
+  "lat": "0",
+  "long": "0",
   "timeline": [
     {
       "date": "20-1-22",

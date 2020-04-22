@@ -352,46 +352,46 @@
     {
       "date": "20-3-31",
       "confirmed": 81,
-      "deaths": 2
+      "deaths": 3
     },
     {
       "date": "20-4-1",
-      "confirmed": 117,
-      "deaths": 2
+      "confirmed": 85,
+      "deaths": 5
     },
     {
       "date": "20-4-2",
-      "confirmed": 146,
-      "deaths": 5
+      "confirmed": 114,
+      "deaths": 8
     },
     {
       "date": "20-4-3",
-      "confirmed": 175,
-      "deaths": 5
+      "confirmed": 126,
+      "deaths": 8
     },
     {
       "date": "20-4-4",
-      "confirmed": 196,
+      "confirmed": 147,
       "deaths": 10
     },
     {
       "date": "20-4-5",
-      "confirmed": 238,
+      "confirmed": 155,
       "deaths": 10
     },
     {
       "date": "20-4-6",
-      "confirmed": 257,
+      "confirmed": 167,
       "deaths": 10
     },
     {
       "date": "20-4-7",
-      "confirmed": 281,
+      "confirmed": 179,
       "deaths": 10
     },
     {
       "date": "20-4-8",
-      "confirmed": 288,
+      "confirmed": 186,
       "deaths": 14
     },
     {

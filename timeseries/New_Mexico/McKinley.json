@@ -1,7 +1,7 @@
 {
   "city_name": "McKinley",
   "state_name": "New Mexico",
-  "lat": "35.58007720000001",
+  "lat": "35.5800772",
   "long": "-108.262245",
   "timeline": [
     {
@@ -356,42 +356,42 @@
     },
     {
       "date": "20-4-1",
-      "confirmed": 25,
+      "confirmed": 20,
       "deaths": 0
     },
     {
       "date": "20-4-2",
-      "confirmed": 29,
+      "confirmed": 24,
       "deaths": 0
     },
     {
       "date": "20-4-3",
-      "confirmed": 46,
+      "confirmed": 31,
       "deaths": 0
     },
     {
       "date": "20-4-4",
-      "confirmed": 46,
-      "deaths": 0
+      "confirmed": 31,
+      "deaths": 1
     },
     {
       "date": "20-4-5",
-      "confirmed": 55,
+      "confirmed": 40,
       "deaths": 2
     },
     {
       "date": "20-4-6",
-      "confirmed": 61,
+      "confirmed": 44,
       "deaths": 2
     },
     {
       "date": "20-4-7",
-      "confirmed": 78,
+      "confirmed": 55,
       "deaths": 2
     },
     {
       "date": "20-4-8",
-      "confirmed": 87,
+      "confirmed": 70,
       "deaths": 2
     },
     {
