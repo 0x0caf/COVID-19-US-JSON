@@ -2,7 +2,7 @@
   "city_name": "Yellowstone",
   "state_name": "Montana",
   "lat": "45.93955949",
-  "long": "-108.2691486",
+  "long": "-108.26914860000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 73,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 74,
       "deaths": 1
     }
   ]

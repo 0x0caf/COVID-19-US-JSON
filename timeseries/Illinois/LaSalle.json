@@ -1,7 +1,7 @@
 {
   "city_name": "LaSalle",
   "state_name": "Illinois",
-  "lat": "41.3442613",
+  "lat": "41.34426129999999",
   "long": "-88.88633881",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 33,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 38,
       "deaths": 1
     }
   ]

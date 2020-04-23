@@ -1,7 +1,7 @@
 {
   "city_name": "Adams",
   "state_name": "Nebraska",
-  "lat": "40.5244942",
+  "lat": "40.52449420000001",
   "long": "-98.50117804",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 101,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 103,
       "deaths": 0
     }
   ]

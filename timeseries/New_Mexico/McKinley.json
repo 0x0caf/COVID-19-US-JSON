@@ -1,7 +1,7 @@
 {
   "city_name": "McKinley",
   "state_name": "New Mexico",
-  "lat": "35.5800772",
+  "lat": "35.580077200000005",
   "long": "-108.262245",
   "timeline": [
     {
@@ -458,6 +458,11 @@
       "date": "20-4-21",
       "confirmed": 416,
       "deaths": 5
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 519,
+      "deaths": 7
     }
   ]
 }

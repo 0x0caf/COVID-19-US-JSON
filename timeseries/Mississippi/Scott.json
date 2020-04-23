@@ -1,7 +1,7 @@
 {
   "city_name": "Scott",
   "state_name": "Mississippi",
-  "lat": "32.4067041",
+  "lat": "32.406704100000006",
   "long": "-89.53789439",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 158,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 163,
       "deaths": 0
     }
   ]

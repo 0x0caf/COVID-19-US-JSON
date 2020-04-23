@@ -1,7 +1,7 @@
 {
   "city_name": "Floyd",
   "state_name": "Iowa",
-  "lat": "43.0600053",
+  "lat": "43.06000529999999",
   "long": "-92.78940097",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

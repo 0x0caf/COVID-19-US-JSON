@@ -2,7 +2,7 @@
   "city_name": "Jeff Davis",
   "state_name": "Georgia",
   "lat": "31.80405727",
-  "long": "-82.6372487",
+  "long": "-82.63724870000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 7,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 7,
       "deaths": 1
     }

@@ -2,7 +2,7 @@
   "city_name": "Yuma",
   "state_name": "Arizona",
   "lat": "32.76895712",
-  "long": "-113.9066674",
+  "long": "-113.90666740000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 32,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 42,
       "deaths": 1
     }
   ]

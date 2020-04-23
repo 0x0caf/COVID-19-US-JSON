@@ -2,7 +2,7 @@
   "city_name": "Madison",
   "state_name": "Idaho",
   "lat": "43.78141028",
-  "long": "-111.6538474",
+  "long": "-111.65384740000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 8,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Dillingham",
   "state_name": "Alaska",
   "lat": "59.79603738",
-  "long": "-158.2381942",
+  "long": "-158.23819419999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

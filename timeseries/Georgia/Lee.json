@@ -1,7 +1,7 @@
 {
   "city_name": "Lee",
   "state_name": "Georgia",
-  "lat": "31.7793306",
+  "lat": "31.779330600000005",
   "long": "-84.14324253",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 277,
+      "deaths": 17
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 294,
       "deaths": 17
     }
   ]

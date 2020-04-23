@@ -2,7 +2,7 @@
   "city_name": "Napa",
   "state_name": "California",
   "lat": "38.50735751",
-  "long": "-122.332839",
+  "long": "-122.33283899999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 48,
+      "deaths": 2
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 54,
       "deaths": 2
     }
   ]

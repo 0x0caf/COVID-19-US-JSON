@@ -2,7 +2,7 @@
   "city_name": "Campbell",
   "state_name": "Tennessee",
   "lat": "36.40355516",
-  "long": "-84.1510856",
+  "long": "-84.15108559999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 13,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 13,
       "deaths": 1
     }

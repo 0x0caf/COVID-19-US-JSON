@@ -1,7 +1,7 @@
 {
   "city_name": "Delta",
   "state_name": "Michigan",
-  "lat": "45.9048491",
+  "lat": "45.90484910000001",
   "long": "-86.9080745",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 13,
+      "deaths": 2
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 12,
       "deaths": 2
     }
   ]

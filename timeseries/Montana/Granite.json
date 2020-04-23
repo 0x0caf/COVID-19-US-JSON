@@ -1,7 +1,7 @@
 {
   "city_name": "Granite",
   "state_name": "Montana",
-  "lat": "46.4060522",
+  "lat": "46.406052200000005",
   "long": "-113.4414186",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

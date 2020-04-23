@@ -2,7 +2,7 @@
   "city_name": "Yolo",
   "state_name": "California",
   "lat": "38.68278902",
-  "long": "-121.9018288",
+  "long": "-121.90182879999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 142,
+      "deaths": 10
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 146,
       "deaths": 10
     }
   ]

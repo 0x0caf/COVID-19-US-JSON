@@ -1,7 +1,7 @@
 {
   "city_name": "Patrick",
   "state_name": "Virginia",
-  "lat": "36.6801638",
+  "lat": "36.680163799999995",
   "long": "-80.2865648",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 1,
       "deaths": 0
     }

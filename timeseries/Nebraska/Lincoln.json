@@ -2,7 +2,7 @@
   "city_name": "Lincoln",
   "state_name": "Nebraska",
   "lat": "41.04658298",
-  "long": "-100.7475374",
+  "long": "-100.74753740000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 18,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 18,
       "deaths": 1
     }

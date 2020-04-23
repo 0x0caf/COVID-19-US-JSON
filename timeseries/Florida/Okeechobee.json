@@ -1,7 +1,7 @@
 {
   "city_name": "Okeechobee",
   "state_name": "Florida",
-  "lat": "27.3863362",
+  "lat": "27.386336199999995",
   "long": "-80.88944347",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 8,
       "deaths": 0
     }

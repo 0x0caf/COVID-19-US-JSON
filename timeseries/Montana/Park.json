@@ -2,7 +2,7 @@
   "city_name": "Park",
   "state_name": "Montana",
   "lat": "45.48965095",
-  "long": "-110.5264394",
+  "long": "-110.52643940000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 7,
       "deaths": 0
     }

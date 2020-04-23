@@ -2,7 +2,7 @@
   "city_name": "Custer",
   "state_name": "Montana",
   "lat": "46.25319932",
-  "long": "-105.5737526",
+  "long": "-105.57375259999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

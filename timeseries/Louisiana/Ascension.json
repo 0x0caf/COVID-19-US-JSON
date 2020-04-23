@@ -2,7 +2,7 @@
   "city_name": "Ascension",
   "state_name": "Louisiana",
   "lat": "30.20406249",
-  "long": "-90.9132841",
+  "long": "-90.91328409999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -458,6 +458,11 @@
       "date": "20-4-21",
       "confirmed": 515,
       "deaths": 31
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 533,
+      "deaths": 33
     }
   ]
 }

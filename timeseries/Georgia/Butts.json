@@ -1,8 +1,8 @@
 {
   "city_name": "Butts",
   "state_name": "Georgia",
-  "lat": "33.2830945",
-  "long": "-83.9543504",
+  "lat": "33.283094500000004",
+  "long": "-83.95435040000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -458,6 +458,11 @@
       "date": "20-4-21",
       "confirmed": 82,
       "deaths": 2
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 125,
+      "deaths": 1
     }
   ]
 }

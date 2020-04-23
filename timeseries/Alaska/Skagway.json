@@ -2,7 +2,7 @@
   "city_name": "Skagway",
   "state_name": "Alaska",
   "lat": "59.56149996",
-  "long": "-135.3337748",
+  "long": "-135.33377480000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Malheur",
   "state_name": "Oregon",
   "lat": "43.1937027",
-  "long": "-117.6227395",
+  "long": "-117.62273950000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 5,
       "deaths": 0
     }

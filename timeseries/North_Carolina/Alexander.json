@@ -1,7 +1,7 @@
 {
   "city_name": "Alexander",
   "state_name": "North Carolina",
-  "lat": "35.9223796",
+  "lat": "35.922379600000006",
   "long": "-81.17751948",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 4,
       "deaths": 0
     }

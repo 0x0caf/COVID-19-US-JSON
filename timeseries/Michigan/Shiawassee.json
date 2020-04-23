@@ -1,7 +1,7 @@
 {
   "city_name": "Shiawassee",
   "state_name": "Michigan",
-  "lat": "42.953928",
+  "lat": "42.953928000000005",
   "long": "-84.14585902",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 121,
+      "deaths": 3
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 123,
       "deaths": 3
     }
   ]

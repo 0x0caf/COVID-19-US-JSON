@@ -2,7 +2,7 @@
   "city_name": "Albany",
   "state_name": "Wyoming",
   "lat": "41.65498705",
-  "long": "-105.7235415",
+  "long": "-105.72354150000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 6,
       "deaths": 0
     }

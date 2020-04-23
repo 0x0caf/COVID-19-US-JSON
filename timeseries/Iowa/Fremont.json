@@ -1,7 +1,7 @@
 {
   "city_name": "Fremont",
   "state_name": "Iowa",
-  "lat": "40.7454272",
+  "lat": "40.74542720000001",
   "long": "-95.60129045",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

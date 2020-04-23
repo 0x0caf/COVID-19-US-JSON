@@ -2,7 +2,7 @@
   "city_name": "Yalobusha",
   "state_name": "Mississippi",
   "lat": "34.02824175",
-  "long": "-89.7076205",
+  "long": "-89.70762049999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 17,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 17,
       "deaths": 0
     }

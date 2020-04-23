@@ -1,7 +1,7 @@
 {
   "city_name": "Carroll",
   "state_name": "Indiana",
-  "lat": "40.5807832",
+  "lat": "40.580783200000006",
   "long": "-86.56198812",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 8,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 7,
       "deaths": 1
     }
   ]

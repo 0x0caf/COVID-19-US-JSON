@@ -1,7 +1,7 @@
 {
   "city_name": "Brazos",
   "state_name": "Texas",
-  "lat": "30.6636448",
+  "lat": "30.663644800000004",
   "long": "-96.30205577",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 170,
+      "deaths": 16
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 173,
       "deaths": 16
     }
   ]

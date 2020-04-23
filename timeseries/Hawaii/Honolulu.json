@@ -2,7 +2,7 @@
   "city_name": "Honolulu",
   "state_name": "Hawaii",
   "lat": "21.45803166",
-  "long": "-157.9712182",
+  "long": "-157.97121819999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -458,6 +458,11 @@
       "date": "20-4-21",
       "confirmed": 385,
       "deaths": 6
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 388,
+      "deaths": 7
     }
   ]
 }

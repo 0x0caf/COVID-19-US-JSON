@@ -2,7 +2,7 @@
   "city_name": "Duchesne",
   "state_name": "Utah",
   "lat": "40.29772254",
-  "long": "-110.425237",
+  "long": "-110.42523700000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

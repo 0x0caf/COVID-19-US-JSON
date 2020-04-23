@@ -1,7 +1,7 @@
 {
   "city_name": "New York",
   "state_name": "New York",
-  "lat": "40.7672726",
+  "lat": "40.767272600000005",
   "long": "-73.97152637",
   "timeline": [
     {
@@ -458,6 +458,11 @@
       "date": "20-4-21",
       "confirmed": 144190,
       "deaths": 14887
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 147297,
+      "deaths": 15074
     }
   ]
 }

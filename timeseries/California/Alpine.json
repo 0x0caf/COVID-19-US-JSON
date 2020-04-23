@@ -2,7 +2,7 @@
   "city_name": "Alpine",
   "state_name": "California",
   "lat": "38.59678594",
-  "long": "-119.8223594",
+  "long": "-119.82235940000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 2,
       "deaths": 0
     }
   ]

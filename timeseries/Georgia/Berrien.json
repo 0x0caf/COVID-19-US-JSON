@@ -2,7 +2,7 @@
   "city_name": "Berrien",
   "state_name": "Georgia",
   "lat": "31.27590016",
-  "long": "-83.2252992",
+  "long": "-83.22529920000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 10,
       "deaths": 0
     }

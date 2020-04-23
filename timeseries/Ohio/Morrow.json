@@ -1,7 +1,7 @@
 {
   "city_name": "Morrow",
   "state_name": "Ohio",
-  "lat": "40.5236356",
+  "lat": "40.523635600000006",
   "long": "-82.7892599",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 24,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 25,
       "deaths": 0
     }
   ]

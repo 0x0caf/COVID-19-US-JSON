@@ -1,7 +1,7 @@
 {
   "city_name": "Haskell",
   "state_name": "Oklahoma",
-  "lat": "35.222576",
+  "lat": "35.222576000000004",
   "long": "-95.11513306",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 3,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Ravalli",
   "state_name": "Montana",
   "lat": "46.08520862",
-  "long": "-114.1189164",
+  "long": "-114.11891640000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 5,
       "deaths": 0
     }

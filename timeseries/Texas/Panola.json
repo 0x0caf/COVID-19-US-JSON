@@ -1,7 +1,7 @@
 {
   "city_name": "Panola",
   "state_name": "Texas",
-  "lat": "32.1639596",
+  "lat": "32.163959600000005",
   "long": "-94.30552481",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 55,
+      "deaths": 4
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 55,
       "deaths": 4
     }

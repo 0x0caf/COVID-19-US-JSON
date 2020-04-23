@@ -2,7 +2,7 @@
   "city_name": "Dallam",
   "state_name": "Texas",
   "lat": "36.27787176",
-  "long": "-102.6020725",
+  "long": "-102.60207249999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 3,
       "deaths": 0
     }

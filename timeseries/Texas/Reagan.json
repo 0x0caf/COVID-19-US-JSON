@@ -2,7 +2,7 @@
   "city_name": "Reagan",
   "state_name": "Texas",
   "lat": "31.36607041",
-  "long": "-101.5232659",
+  "long": "-101.52326590000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

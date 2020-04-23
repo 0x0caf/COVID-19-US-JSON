@@ -2,7 +2,7 @@
   "city_name": "Bear River",
   "state_name": "Utah",
   "lat": "41.52106798",
-  "long": "-113.0832816",
+  "long": "-113.08328159999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 55,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 55,
       "deaths": 1
     }

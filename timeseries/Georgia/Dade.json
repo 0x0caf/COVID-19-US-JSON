@@ -1,7 +1,7 @@
 {
   "city_name": "Dade",
   "state_name": "Georgia",
-  "lat": "34.8549167",
+  "lat": "34.854916700000004",
   "long": "-85.50490424",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 12,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 15,
       "deaths": 1
     }
   ]

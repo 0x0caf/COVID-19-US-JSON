@@ -2,7 +2,7 @@
   "city_name": "Chaffee",
   "state_name": "Colorado",
   "lat": "38.74745778",
-  "long": "-106.1926573",
+  "long": "-106.19265729999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -458,6 +458,11 @@
       "date": "20-4-21",
       "confirmed": 38,
       "deaths": 4
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 55,
+      "deaths": 5
     }
   ]
 }

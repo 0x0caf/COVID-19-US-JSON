@@ -2,7 +2,7 @@
   "city_name": "Lassen",
   "state_name": "California",
   "lat": "40.67311306",
-  "long": "-120.5935099",
+  "long": "-120.59350990000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Lake and Peninsula",
   "state_name": "Alaska",
   "lat": "58.62403337",
-  "long": "-156.2140589",
+  "long": "-156.21405890000003",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

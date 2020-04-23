@@ -2,7 +2,7 @@
   "city_name": "Meade",
   "state_name": "South Dakota",
   "lat": "44.56676791",
-  "long": "-102.7162741",
+  "long": "-102.71627409999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 1,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Missoula",
   "state_name": "Montana",
   "lat": "47.03728583",
-  "long": "-113.9213508",
+  "long": "-113.92135079999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 38,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 39,
       "deaths": 1
     }
   ]

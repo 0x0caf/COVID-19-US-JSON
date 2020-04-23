@@ -2,7 +2,7 @@
   "city_name": "Jefferson",
   "state_name": "Washington",
   "lat": "47.75003077",
-  "long": "-123.5609704",
+  "long": "-123.56097040000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 28,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 28,
       "deaths": 0
     }

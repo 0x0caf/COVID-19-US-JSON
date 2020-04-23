@@ -1,7 +1,7 @@
 {
   "city_name": "Wayne",
   "state_name": "Indiana",
-  "lat": "39.8633444",
+  "lat": "39.863344399999995",
   "long": "-85.01044989",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 28,
+      "deaths": 2
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 30,
       "deaths": 2
     }
   ]

@@ -1,8 +1,8 @@
 {
   "city_name": "Yakutat",
   "state_name": "Alaska",
-  "lat": "59.8909808",
-  "long": "-140.3601451",
+  "lat": "59.890980799999994",
+  "long": "-140.36014509999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

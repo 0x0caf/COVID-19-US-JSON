@@ -1,7 +1,7 @@
 {
   "city_name": "Oglethorpe",
   "state_name": "Georgia",
-  "lat": "33.8786296",
+  "lat": "33.878629600000004",
   "long": "-83.08278123",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 34,
+      "deaths": 3
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 37,
       "deaths": 3
     }
   ]

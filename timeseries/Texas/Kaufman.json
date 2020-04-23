@@ -1,7 +1,7 @@
 {
   "city_name": "Kaufman",
   "state_name": "Texas",
-  "lat": "32.5991417",
+  "lat": "32.599141700000004",
   "long": "-96.28734728",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 48,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 51,
       "deaths": 0
     }
   ]

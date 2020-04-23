@@ -1,7 +1,7 @@
 {
   "city_name": "Westmoreland",
   "state_name": "Pennsylvania",
-  "lat": "40.3137798",
+  "lat": "40.31377979999999",
   "long": "-79.46615476",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 291,
+      "deaths": 20
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 300,
       "deaths": 20
     }
   ]

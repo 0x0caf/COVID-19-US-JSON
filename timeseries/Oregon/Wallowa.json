@@ -2,7 +2,7 @@
   "city_name": "Wallowa",
   "state_name": "Oregon",
   "lat": "45.57894064",
-  "long": "-117.183538",
+  "long": "-117.18353799999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 1,
       "deaths": 0
     }

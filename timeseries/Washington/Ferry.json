@@ -1,7 +1,7 @@
 {
   "city_name": "Ferry",
   "state_name": "Washington",
-  "lat": "48.4711431",
+  "lat": "48.471143100000006",
   "long": "-118.5154041",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 1,
       "deaths": 0
     }

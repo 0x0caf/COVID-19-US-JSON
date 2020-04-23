@@ -1,7 +1,7 @@
 {
   "city_name": "Pontotoc",
   "state_name": "Mississippi",
-  "lat": "34.226046",
+  "lat": "34.226046000000004",
   "long": "-89.03636807",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 18,
+      "deaths": 2
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 18,
       "deaths": 2
     }

@@ -1,7 +1,7 @@
 {
   "city_name": "Comanche",
   "state_name": "Kansas",
-  "lat": "37.1911452",
+  "lat": "37.19114520000001",
   "long": "-99.27113247",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

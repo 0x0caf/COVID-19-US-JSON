@@ -1,7 +1,7 @@
 {
   "city_name": "Red Willow",
   "state_name": "Nebraska",
-  "lat": "40.1755688",
+  "lat": "40.17556879999999",
   "long": "-100.476998",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 1,
       "deaths": 0
     }

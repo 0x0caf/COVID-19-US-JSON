@@ -1,7 +1,7 @@
 {
   "city_name": "Jackson",
   "state_name": "Indiana",
-  "lat": "38.9091582",
+  "lat": "38.90915820000001",
   "long": "-86.03851889",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 98,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 97,
       "deaths": 0
     }
   ]

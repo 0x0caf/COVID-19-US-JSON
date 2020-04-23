@@ -2,7 +2,7 @@
   "city_name": "Seward",
   "state_name": "Kansas",
   "lat": "37.19324632",
-  "long": "-100.8507201",
+  "long": "-100.85072009999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 96,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 142,
       "deaths": 0
     }
   ]

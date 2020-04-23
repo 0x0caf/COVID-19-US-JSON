@@ -1,7 +1,7 @@
 {
   "city_name": "Lee",
   "state_name": "Mississippi",
-  "lat": "34.2918775",
+  "lat": "34.291877500000005",
   "long": "-88.68149954",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 64,
+      "deaths": 4
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 64,
       "deaths": 4
     }

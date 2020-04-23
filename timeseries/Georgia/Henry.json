@@ -2,7 +2,7 @@
   "city_name": "Henry",
   "state_name": "Georgia",
   "lat": "33.4533428",
-  "long": "-84.1481466",
+  "long": "-84.14814659999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -458,6 +458,11 @@
       "date": "20-4-21",
       "confirmed": 384,
       "deaths": 11
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 388,
+      "deaths": 10
     }
   ]
 }

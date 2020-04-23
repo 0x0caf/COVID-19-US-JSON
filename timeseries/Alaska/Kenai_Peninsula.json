@@ -2,7 +2,7 @@
   "city_name": "Kenai Peninsula",
   "state_name": "Alaska",
   "lat": "60.24429722",
-  "long": "-151.5388884",
+  "long": "-151.53888840000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 19,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 19,
       "deaths": 0
     }

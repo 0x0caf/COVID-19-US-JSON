@@ -1,8 +1,8 @@
 {
   "city_name": "Divide",
   "state_name": "North Dakota",
-  "lat": "48.8149387",
-  "long": "-103.4873611",
+  "lat": "48.814938700000006",
+  "long": "-103.48736109999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 1,
       "deaths": 0
     }

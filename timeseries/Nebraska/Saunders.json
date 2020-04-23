@@ -1,7 +1,7 @@
 {
   "city_name": "Saunders",
   "state_name": "Nebraska",
-  "lat": "41.2278103",
+  "lat": "41.227810299999994",
   "long": "-96.63773905",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 6,
       "deaths": 0
     }

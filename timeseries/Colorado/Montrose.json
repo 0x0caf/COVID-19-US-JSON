@@ -2,7 +2,7 @@
   "city_name": "Montrose",
   "state_name": "Colorado",
   "lat": "38.40214114",
-  "long": "-108.2639022",
+  "long": "-108.26390220000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 80,
+      "deaths": 9
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 82,
       "deaths": 9
     }
   ]

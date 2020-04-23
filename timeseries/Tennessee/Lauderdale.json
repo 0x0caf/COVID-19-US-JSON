@@ -2,7 +2,7 @@
   "city_name": "Lauderdale",
   "state_name": "Tennessee",
   "lat": "35.75893438",
-  "long": "-89.6301591",
+  "long": "-89.63015909999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 16,
       "deaths": 0
     }

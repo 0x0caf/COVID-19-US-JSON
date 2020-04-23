@@ -2,7 +2,7 @@
   "city_name": "Orange",
   "state_name": "California",
   "lat": "33.70147516",
-  "long": "-117.7645998",
+  "long": "-117.76459979999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -458,6 +458,11 @@
       "date": "20-4-21",
       "confirmed": 1691,
       "deaths": 33
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 1753,
+      "deaths": 34
     }
   ]
 }

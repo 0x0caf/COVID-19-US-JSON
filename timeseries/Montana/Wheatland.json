@@ -2,7 +2,7 @@
   "city_name": "Wheatland",
   "state_name": "Montana",
   "lat": "46.46652491",
-  "long": "-109.8464636",
+  "long": "-109.84646359999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

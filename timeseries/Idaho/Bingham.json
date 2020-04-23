@@ -1,7 +1,7 @@
 {
   "city_name": "Bingham",
   "state_name": "Idaho",
-  "lat": "43.2167288",
+  "lat": "43.21672879999999",
   "long": "-112.3978437",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 3,
       "deaths": 0
     }

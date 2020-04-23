@@ -1,7 +1,7 @@
 {
   "city_name": "Childress",
   "state_name": "Texas",
-  "lat": "34.5293041",
+  "lat": "34.529304100000004",
   "long": "-100.2077916",
   "timeline": [
     {
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 1,
       "deaths": 0
     }

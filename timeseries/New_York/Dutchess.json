@@ -1,7 +1,7 @@
 {
   "city_name": "Dutchess",
   "state_name": "New York",
-  "lat": "41.7648606",
+  "lat": "41.764860600000006",
   "long": "-73.74356679",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 2331,
+      "deaths": 28
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 2391,
       "deaths": 28
     }
   ]

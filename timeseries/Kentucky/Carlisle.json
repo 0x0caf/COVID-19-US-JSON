@@ -2,7 +2,7 @@
   "city_name": "Carlisle",
   "state_name": "Kentucky",
   "lat": "36.85372876",
-  "long": "-88.9669222",
+  "long": "-88.96692220000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 0,
       "deaths": 0
     }

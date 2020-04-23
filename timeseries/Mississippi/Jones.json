@@ -2,7 +2,7 @@
   "city_name": "Jones",
   "state_name": "Mississippi",
   "lat": "31.62257767",
-  "long": "-89.168969",
+  "long": "-89.16896899999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 80,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 88,
       "deaths": 0
     }
   ]

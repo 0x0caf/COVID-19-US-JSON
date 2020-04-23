@@ -1,7 +1,7 @@
 {
   "city_name": "Laramie",
   "state_name": "Wyoming",
-  "lat": "41.3070252",
+  "lat": "41.307025200000005",
   "long": "-104.6887497",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 110,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 114,
       "deaths": 0
     }
   ]

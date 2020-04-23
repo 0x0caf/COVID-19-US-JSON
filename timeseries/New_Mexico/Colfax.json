@@ -2,7 +2,7 @@
   "city_name": "Colfax",
   "state_name": "New Mexico",
   "lat": "36.60569702",
-  "long": "-104.6472674",
+  "long": "-104.64726740000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 5,
       "deaths": 0
     }

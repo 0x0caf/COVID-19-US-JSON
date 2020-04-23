@@ -1,7 +1,7 @@
 {
   "city_name": "Hickman",
   "state_name": "Kentucky",
-  "lat": "36.6794808",
+  "lat": "36.67948079999999",
   "long": "-88.97875928",
   "timeline": [
     {
@@ -457,6 +457,11 @@
     {
       "date": "20-4-21",
       "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
+      "confirmed": 1,
       "deaths": 0
     }
   ]

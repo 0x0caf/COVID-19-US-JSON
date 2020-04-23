@@ -2,7 +2,7 @@
   "city_name": "Power",
   "state_name": "Idaho",
   "lat": "42.69254894",
-  "long": "-112.8395742",
+  "long": "-112.83957420000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -456,6 +456,11 @@
     },
     {
       "date": "20-4-21",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-22",
       "confirmed": 2,
       "deaths": 0
     }
