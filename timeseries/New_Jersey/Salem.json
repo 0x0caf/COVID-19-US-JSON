@@ -2,7 +2,7 @@
   "city_name": "Salem",
   "state_name": "New Jersey",
   "lat": "39.58719656",
-  "long": "-75.34696629999999",
+  "long": "-75.34696629999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 134,
+      "deaths": 6
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 164,
       "deaths": 6
     }
   ]

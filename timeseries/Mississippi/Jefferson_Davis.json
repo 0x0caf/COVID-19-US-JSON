@@ -2,7 +2,7 @@
   "city_name": "Jefferson Davis",
   "state_name": "Mississippi",
   "lat": "31.56884708",
-  "long": "-89.82670990000001",
+  "long": "-89.82670990000003",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 12,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 13,
       "deaths": 1
     }
   ]

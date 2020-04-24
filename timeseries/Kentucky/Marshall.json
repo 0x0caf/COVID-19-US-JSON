@@ -1,7 +1,7 @@
 {
   "city_name": "Marshall",
   "state_name": "Kentucky",
-  "lat": "36.880070700000005",
+  "lat": "36.88007070000001",
   "long": "-88.32803576",
   "timeline": [
     {
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 20,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 23,
       "deaths": 0
     }
   ]

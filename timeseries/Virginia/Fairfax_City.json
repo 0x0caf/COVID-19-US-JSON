@@ -2,7 +2,7 @@
   "city_name": "Fairfax City",
   "state_name": "Virginia",
   "lat": "38.85157547",
-  "long": "-77.29779640000001",
+  "long": "-77.29779640000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -463,6 +463,11 @@
       "date": "20-4-22",
       "confirmed": 25,
       "deaths": 1
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 26,
+      "deaths": 2
     }
   ]
 }

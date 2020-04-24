@@ -1,7 +1,7 @@
 {
   "city_name": "Acadia",
   "state_name": "Louisiana",
-  "lat": "30.295064899999996",
+  "lat": "30.2950649",
   "long": "-92.41419698",
   "timeline": [
     {
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 117,
+      "deaths": 7
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 117,
       "deaths": 7
     }

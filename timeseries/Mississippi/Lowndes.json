@@ -2,7 +2,7 @@
   "city_name": "Lowndes",
   "state_name": "Mississippi",
   "lat": "33.47386518",
-  "long": "-88.44191529999999",
+  "long": "-88.44191529999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 36,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 36,
       "deaths": 1
     }

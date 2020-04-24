@@ -1,7 +1,7 @@
 {
   "city_name": "Carroll",
   "state_name": "Ohio",
-  "lat": "40.578968599999996",
+  "lat": "40.5789686",
   "long": "-81.09178213",
   "timeline": [
     {
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 18,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 18,
       "deaths": 0
     }

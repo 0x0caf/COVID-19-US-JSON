@@ -2,7 +2,7 @@
   "city_name": "Clare",
   "state_name": "Michigan",
   "lat": "43.98794227",
-  "long": "-84.84819859999999",
+  "long": "-84.84819859999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 10,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 10,
       "deaths": 1
     }

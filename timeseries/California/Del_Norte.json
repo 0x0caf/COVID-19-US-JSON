@@ -2,7 +2,7 @@
   "city_name": "Del Norte",
   "state_name": "California",
   "lat": "41.74228275",
-  "long": "-123.89740630000001",
+  "long": "-123.8974063",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 2,
       "deaths": 0
     }

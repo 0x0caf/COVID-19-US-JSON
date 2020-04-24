@@ -2,7 +2,7 @@
   "city_name": "Wheeler",
   "state_name": "Texas",
   "lat": "35.40114335",
-  "long": "-100.26995140000001",
+  "long": "-100.2699514",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 1,
       "deaths": 0
     }

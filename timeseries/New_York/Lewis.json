@@ -1,7 +1,7 @@
 {
   "city_name": "Lewis",
   "state_name": "New York",
-  "lat": "43.784415700000004",
+  "lat": "43.7844157",
   "long": "-75.44903992",
   "timeline": [
     {
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 9,
       "deaths": 0
     }

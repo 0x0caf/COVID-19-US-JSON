@@ -2,7 +2,7 @@
   "city_name": "Crook",
   "state_name": "Wyoming",
   "lat": "44.58855102",
-  "long": "-104.56977049999999",
+  "long": "-104.5697705",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 5,
       "deaths": 0
     }

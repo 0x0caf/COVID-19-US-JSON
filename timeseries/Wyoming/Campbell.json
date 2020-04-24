@@ -2,7 +2,7 @@
   "city_name": "Campbell",
   "state_name": "Wyoming",
   "lat": "44.24886082",
-  "long": "-105.54744040000001",
+  "long": "-105.5474404",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 18,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 18,
       "deaths": 0
     }

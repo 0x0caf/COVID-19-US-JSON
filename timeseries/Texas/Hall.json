@@ -2,7 +2,7 @@
   "city_name": "Hall",
   "state_name": "Texas",
   "lat": "34.5307555",
-  "long": "-100.68138520000001",
+  "long": "-100.6813852",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 0,
       "deaths": 0
     }

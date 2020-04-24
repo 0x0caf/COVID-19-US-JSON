@@ -2,7 +2,7 @@
   "city_name": "Beaverhead",
   "state_name": "Montana",
   "lat": "45.13434354",
-  "long": "-112.89846940000001",
+  "long": "-112.8984694",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 1,
       "deaths": 0
     }

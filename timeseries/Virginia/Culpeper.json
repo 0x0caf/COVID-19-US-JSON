@@ -2,7 +2,7 @@
   "city_name": "Culpeper",
   "state_name": "Virginia",
   "lat": "38.48199985",
-  "long": "-77.95630870000001",
+  "long": "-77.95630870000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 73,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 84,
       "deaths": 1
     }
   ]

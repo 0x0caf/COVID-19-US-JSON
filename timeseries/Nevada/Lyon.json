@@ -2,7 +2,7 @@
   "city_name": "Lyon",
   "state_name": "Nevada",
   "lat": "39.01777974",
-  "long": "-119.18704790000001",
+  "long": "-119.1870479",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 19,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 20,
       "deaths": 0
     }
   ]

@@ -463,6 +463,11 @@
       "date": "20-4-22",
       "confirmed": 479,
       "deaths": 20
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 507,
+      "deaths": 21
     }
   ]
 }

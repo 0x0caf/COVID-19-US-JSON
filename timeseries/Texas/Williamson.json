@@ -2,7 +2,7 @@
   "city_name": "Williamson",
   "state_name": "Texas",
   "lat": "30.64655664",
-  "long": "-97.60048540000001",
+  "long": "-97.6004854",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 158,
+      "deaths": 5
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 167,
       "deaths": 5
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Lincoln",
   "state_name": "South Dakota",
   "lat": "43.27841182",
-  "long": "-96.72039050000001",
+  "long": "-96.7203905",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 104,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 110,
       "deaths": 0
     }
   ]

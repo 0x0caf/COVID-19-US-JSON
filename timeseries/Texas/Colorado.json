@@ -1,7 +1,7 @@
 {
   "city_name": "Colorado",
   "state_name": "Texas",
-  "lat": "29.622097999999998",
+  "lat": "29.622098",
   "long": "-96.5273805",
   "timeline": [
     {
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 10,
       "deaths": 0
     }
   ]

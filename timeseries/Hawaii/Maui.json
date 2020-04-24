@@ -2,7 +2,7 @@
   "city_name": "Maui",
   "state_name": "Hawaii",
   "lat": "20.86399628",
-  "long": "-156.56890969999998",
+  "long": "-156.56890969999995",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 110,
+      "deaths": 5
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 112,
       "deaths": 5
     }
   ]

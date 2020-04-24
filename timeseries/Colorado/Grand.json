@@ -2,7 +2,7 @@
   "city_name": "Grand",
   "state_name": "Colorado",
   "lat": "40.10603347",
-  "long": "-106.11780420000001",
+  "long": "-106.1178042",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 5,
       "deaths": 0
     }

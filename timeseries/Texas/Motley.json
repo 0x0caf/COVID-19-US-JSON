@@ -2,7 +2,7 @@
   "city_name": "Motley",
   "state_name": "Texas",
   "lat": "34.07408766",
-  "long": "-100.77972199999999",
+  "long": "-100.779722",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 1,
       "deaths": 0
     }

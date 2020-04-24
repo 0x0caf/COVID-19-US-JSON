@@ -1,7 +1,7 @@
 {
   "city_name": "Petroleum",
   "state_name": "Montana",
-  "lat": "47.118246299999996",
+  "lat": "47.1182463",
   "long": "-108.2508876",
   "timeline": [
     {
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 0,
       "deaths": 0
     }

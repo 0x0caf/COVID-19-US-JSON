@@ -2,7 +2,7 @@
   "city_name": "Dallas",
   "state_name": "Alabama",
   "lat": "32.32688101",
-  "long": "-87.10866709999999",
+  "long": "-87.10866709999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 30,
+      "deaths": 2
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 29,
       "deaths": 2
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Montezuma",
   "state_name": "Colorado",
   "lat": "37.33859579",
-  "long": "-108.59588570000001",
+  "long": "-108.5958857",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 13,
+      "deaths": 2
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 15,
       "deaths": 2
     }
   ]

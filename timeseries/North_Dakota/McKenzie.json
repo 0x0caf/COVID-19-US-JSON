@@ -1,7 +1,7 @@
 {
   "city_name": "McKenzie",
   "state_name": "North Dakota",
-  "lat": "47.741333700000006",
+  "lat": "47.74133370000001",
   "long": "-103.395905",
   "timeline": [
     {
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 10,
       "deaths": 0
     }

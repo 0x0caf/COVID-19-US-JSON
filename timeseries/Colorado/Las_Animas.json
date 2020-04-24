@@ -2,7 +2,7 @@
   "city_name": "Las Animas",
   "state_name": "Colorado",
   "lat": "37.3153406",
-  "long": "-104.03764579999999",
+  "long": "-104.0376458",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 3,
       "deaths": 0
     }

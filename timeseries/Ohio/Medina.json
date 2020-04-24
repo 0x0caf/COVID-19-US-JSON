@@ -2,7 +2,7 @@
   "city_name": "Medina",
   "state_name": "Ohio",
   "lat": "41.11770589",
-  "long": "-81.89986209999999",
+  "long": "-81.89986209999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -463,6 +463,11 @@
       "date": "20-4-22",
       "confirmed": 143,
       "deaths": 12
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 148,
+      "deaths": 13
     }
   ]
 }

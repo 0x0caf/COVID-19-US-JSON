@@ -1,7 +1,7 @@
 {
   "city_name": "Lenoir",
   "state_name": "North Carolina",
-  "lat": "35.240325899999995",
+  "lat": "35.24032589999999",
   "long": "-77.64245615",
   "timeline": [
     {
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 34,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 34,
       "deaths": 1
     }

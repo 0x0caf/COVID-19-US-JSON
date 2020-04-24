@@ -2,7 +2,7 @@
   "city_name": "Mississippi",
   "state_name": "Arkansas",
   "lat": "35.76271485",
-  "long": "-90.05194370000001",
+  "long": "-90.05194370000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 10,
       "deaths": 0
     }
   ]

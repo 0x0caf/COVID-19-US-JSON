@@ -2,7 +2,7 @@
   "city_name": "Columbia",
   "state_name": "Oregon",
   "lat": "45.94464254",
-  "long": "-123.08908980000001",
+  "long": "-123.0890898",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 14,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 14,
       "deaths": 0
     }

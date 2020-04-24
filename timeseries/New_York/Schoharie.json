@@ -2,7 +2,7 @@
   "city_name": "Schoharie",
   "state_name": "New York",
   "lat": "42.58831742",
-  "long": "-74.44339029999999",
+  "long": "-74.44339029999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 20,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 21,
       "deaths": 0
     }
   ]

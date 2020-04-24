@@ -1,7 +1,7 @@
 {
   "city_name": "Greene",
   "state_name": "Arkansas",
-  "lat": "36.117354600000006",
+  "lat": "36.11735460000001",
   "long": "-90.55832668",
   "timeline": [
     {
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 13,
       "deaths": 0
     }
   ]

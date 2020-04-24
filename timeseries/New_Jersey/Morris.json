@@ -2,7 +2,7 @@
   "city_name": "Morris",
   "state_name": "New Jersey",
   "lat": "40.86095313",
-  "long": "-74.54553709999999",
+  "long": "-74.54553709999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -463,6 +463,11 @@
       "date": "20-4-22",
       "confirmed": 4556,
       "deaths": 309
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 4680,
+      "deaths": 324
     }
   ]
 }

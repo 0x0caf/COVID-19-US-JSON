@@ -2,7 +2,7 @@
   "city_name": "Carter",
   "state_name": "Montana",
   "lat": "45.5197966",
-  "long": "-104.53955359999999",
+  "long": "-104.5395536",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 0,
       "deaths": 0
     }

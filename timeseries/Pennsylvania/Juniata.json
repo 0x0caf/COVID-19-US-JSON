@@ -2,7 +2,7 @@
   "city_name": "Juniata",
   "state_name": "Pennsylvania",
   "lat": "40.53358749",
-  "long": "-77.39975129999999",
+  "long": "-77.39975129999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -462,6 +462,11 @@
     {
       "date": "20-4-22",
       "confirmed": 73,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
+      "confirmed": 77,
       "deaths": 0
     }
   ]

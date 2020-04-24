@@ -2,7 +2,7 @@
   "city_name": "Van Wert",
   "state_name": "Ohio",
   "lat": "40.8554138",
-  "long": "-84.59111700000001",
+  "long": "-84.59111700000003",
   "timeline": [
     {
       "date": "20-1-22",
@@ -461,6 +461,11 @@
     },
     {
       "date": "20-4-22",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-23",
       "confirmed": 3,
       "deaths": 0
     }
