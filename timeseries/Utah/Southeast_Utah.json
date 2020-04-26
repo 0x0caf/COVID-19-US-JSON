@@ -2,7 +2,7 @@
   "city_name": "Southeast Utah",
   "state_name": "Utah",
   "lat": "38.99617072",
-  "long": "-110.7013958",
+  "long": "-110.70139579999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -467,6 +467,11 @@
     {
       "date": "20-4-23",
       "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 8,
       "deaths": 0
     }
   ]

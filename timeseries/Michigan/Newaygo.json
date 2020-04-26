@@ -1,7 +1,7 @@
 {
   "city_name": "Newaygo",
   "state_name": "Michigan",
-  "lat": "43.554374",
+  "lat": "43.554373999999996",
   "long": "-85.80070107",
   "timeline": [
     {
@@ -467,6 +467,11 @@
     {
       "date": "20-4-23",
       "confirmed": 12,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 13,
       "deaths": 0
     }
   ]

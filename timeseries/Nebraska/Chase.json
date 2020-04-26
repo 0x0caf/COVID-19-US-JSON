@@ -1,8 +1,8 @@
 {
   "city_name": "Chase",
   "state_name": "Nebraska",
-  "lat": "40.5237198",
-  "long": "-101.6978026",
+  "lat": "40.523719799999995",
+  "long": "-101.69780259999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 0,
       "deaths": 0
     }

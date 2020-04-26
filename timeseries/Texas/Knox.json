@@ -2,7 +2,7 @@
   "city_name": "Knox",
   "state_name": "Texas",
   "lat": "33.60519951",
-  "long": "-99.7422906",
+  "long": "-99.74229059999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 1,
       "deaths": 0
     }

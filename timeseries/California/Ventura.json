@@ -2,7 +2,7 @@
   "city_name": "Ventura",
   "state_name": "California",
   "lat": "34.44465746",
-  "long": "-119.0910613",
+  "long": "-119.09106129999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -467,6 +467,11 @@
     {
       "date": "20-4-23",
       "confirmed": 465,
+      "deaths": 16
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 476,
       "deaths": 16
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Price",
   "state_name": "Wisconsin",
   "lat": "45.68051754",
-  "long": "-90.3609888",
+  "long": "-90.36098879999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 1,
       "deaths": 0
     }

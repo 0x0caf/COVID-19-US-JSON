@@ -1,7 +1,7 @@
 {
   "city_name": "Scott",
   "state_name": "Illinois",
-  "lat": "39.6429169",
+  "lat": "39.642916899999996",
   "long": "-90.47814431",
   "timeline": [
     {
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 0,
       "deaths": 0
     }

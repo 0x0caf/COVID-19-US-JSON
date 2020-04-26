@@ -2,7 +2,7 @@
   "city_name": "Scott",
   "state_name": "Kansas",
   "lat": "38.48222076",
-  "long": "-100.9066539",
+  "long": "-100.90665390000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 1,
       "deaths": 0
     }

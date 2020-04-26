@@ -2,7 +2,7 @@
   "city_name": "Teton",
   "state_name": "Montana",
   "lat": "47.83741052",
-  "long": "-112.2410688",
+  "long": "-112.24106880000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 0,
       "deaths": 0
     }

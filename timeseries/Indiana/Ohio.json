@@ -1,7 +1,7 @@
 {
   "city_name": "Ohio",
   "state_name": "Indiana",
-  "lat": "38.955305",
+  "lat": "38.955304999999996",
   "long": "-84.96515993",
   "timeline": [
     {
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 3,
       "deaths": 0
     }

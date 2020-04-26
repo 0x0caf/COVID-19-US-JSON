@@ -2,7 +2,7 @@
   "city_name": "Kit Carson",
   "state_name": "Colorado",
   "lat": "39.30497777",
-  "long": "-102.6022199",
+  "long": "-102.60221990000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -468,6 +468,11 @@
       "date": "20-4-23",
       "confirmed": 18,
       "deaths": 1
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 19,
+      "deaths": 2
     }
   ]
 }

@@ -2,7 +2,7 @@
   "city_name": "Tuolumne",
   "state_name": "California",
   "lat": "38.02644018",
-  "long": "-119.9525093",
+  "long": "-119.95250929999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 2,
       "deaths": 0
     }

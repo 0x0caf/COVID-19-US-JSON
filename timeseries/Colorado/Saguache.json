@@ -2,7 +2,7 @@
   "city_name": "Saguache",
   "state_name": "Colorado",
   "lat": "38.08054629",
-  "long": "-106.282466",
+  "long": "-106.28246599999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 3,
       "deaths": 0
     }

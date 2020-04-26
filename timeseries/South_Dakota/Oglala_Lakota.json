@@ -2,7 +2,7 @@
   "city_name": "Oglala Lakota",
   "state_name": "South Dakota",
   "lat": "43.33749164",
-  "long": "-102.5555498",
+  "long": "-102.55554980000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 1,
       "deaths": 0
     }

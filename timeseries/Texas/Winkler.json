@@ -2,7 +2,7 @@
   "city_name": "Winkler",
   "state_name": "Texas",
   "lat": "31.85008651",
-  "long": "-103.0485163",
+  "long": "-103.04851629999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 3,
       "deaths": 0
     }

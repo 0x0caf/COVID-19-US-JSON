@@ -2,7 +2,7 @@
   "city_name": "Holt",
   "state_name": "Missouri",
   "lat": "40.09799248",
-  "long": "-95.2163888",
+  "long": "-95.21638879999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 1,
       "deaths": 0
     }

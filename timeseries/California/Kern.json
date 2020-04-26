@@ -2,7 +2,7 @@
   "city_name": "Kern",
   "state_name": "California",
   "lat": "35.34329425",
-  "long": "-118.7277796",
+  "long": "-118.72777959999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -467,6 +467,11 @@
     {
       "date": "20-4-23",
       "confirmed": 699,
+      "deaths": 4
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 735,
       "deaths": 4
     }
   ]

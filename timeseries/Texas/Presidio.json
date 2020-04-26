@@ -2,7 +2,7 @@
   "city_name": "Presidio",
   "state_name": "Texas",
   "lat": "29.99954402",
-  "long": "-104.2408079",
+  "long": "-104.24080790000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 0,
       "deaths": 0
     }

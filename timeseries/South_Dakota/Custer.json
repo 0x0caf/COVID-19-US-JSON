@@ -2,7 +2,7 @@
   "city_name": "Custer",
   "state_name": "South Dakota",
   "lat": "43.67741105",
-  "long": "-103.4534521",
+  "long": "-103.45345209999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 0,
       "deaths": 0
     }

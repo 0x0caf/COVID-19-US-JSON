@@ -2,7 +2,7 @@
   "city_name": "Andrews",
   "state_name": "Texas",
   "lat": "32.30468633",
-  "long": "-102.6376548",
+  "long": "-102.63765479999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 19,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 19,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Rio Arriba",
   "state_name": "New Mexico",
   "lat": "36.51072137",
-  "long": "-106.6931674",
+  "long": "-106.69316740000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -467,6 +467,11 @@
     {
       "date": "20-4-23",
       "confirmed": 11,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 12,
       "deaths": 0
     }
   ]

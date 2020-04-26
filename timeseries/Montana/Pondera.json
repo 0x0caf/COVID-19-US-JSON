@@ -2,7 +2,7 @@
   "city_name": "Pondera",
   "state_name": "Montana",
   "lat": "48.22773388",
-  "long": "-112.2252703",
+  "long": "-112.22527029999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 2,
       "deaths": 0
     }

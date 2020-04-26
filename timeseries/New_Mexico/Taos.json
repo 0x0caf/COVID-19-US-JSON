@@ -2,7 +2,7 @@
   "city_name": "Taos",
   "state_name": "New Mexico",
   "lat": "36.58006022",
-  "long": "-105.6310198",
+  "long": "-105.63101979999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 17,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 17,
       "deaths": 0
     }

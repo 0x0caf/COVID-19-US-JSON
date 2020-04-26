@@ -2,7 +2,7 @@
   "city_name": "Aitkin",
   "state_name": "Minnesota",
   "lat": "46.60962049",
-  "long": "-93.4116826",
+  "long": "-93.41168259999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 1,
       "deaths": 0
     }

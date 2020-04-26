@@ -2,7 +2,7 @@
   "city_name": "Sanborn",
   "state_name": "South Dakota",
   "lat": "44.02351092",
-  "long": "-98.0909816",
+  "long": "-98.09098159999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 3,
       "deaths": 0
     }

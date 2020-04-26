@@ -2,7 +2,7 @@
   "city_name": "Goodhue",
   "state_name": "Minnesota",
   "lat": "44.40849741",
-  "long": "-92.7234195",
+  "long": "-92.72341949999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 19,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 19,
       "deaths": 0
     }

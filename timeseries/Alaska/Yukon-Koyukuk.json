@@ -2,7 +2,7 @@
   "city_name": "Yukon-Koyukuk",
   "state_name": "Alaska",
   "lat": "65.50815459",
-  "long": "-151.3907387",
+  "long": "-151.39073869999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 1,
       "deaths": 0
     }

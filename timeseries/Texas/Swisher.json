@@ -2,7 +2,7 @@
   "city_name": "Swisher",
   "state_name": "Texas",
   "lat": "34.53028891",
-  "long": "-101.7349174",
+  "long": "-101.73491740000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -467,6 +467,11 @@
     {
       "date": "20-4-23",
       "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 7,
       "deaths": 0
     }
   ]

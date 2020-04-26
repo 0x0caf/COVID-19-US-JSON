@@ -2,7 +2,7 @@
   "city_name": "Marion",
   "state_name": "Texas",
   "lat": "32.79868409",
-  "long": "-94.3566123",
+  "long": "-94.35661230000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 6,
       "deaths": 0
     }

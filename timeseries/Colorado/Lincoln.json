@@ -2,7 +2,7 @@
   "city_name": "Lincoln",
   "state_name": "Colorado",
   "lat": "38.98749519",
-  "long": "-103.5136649",
+  "long": "-103.51366490000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 3,
       "deaths": 0
     }

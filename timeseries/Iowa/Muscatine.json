@@ -2,7 +2,7 @@
   "city_name": "Muscatine",
   "state_name": "Iowa",
   "lat": "41.48370744",
-  "long": "-91.1121697",
+  "long": "-91.11216970000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -467,6 +467,11 @@
     {
       "date": "20-4-23",
       "confirmed": 252,
+      "deaths": 7
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 270,
       "deaths": 7
     }
   ]

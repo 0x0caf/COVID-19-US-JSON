@@ -1,7 +1,7 @@
 {
   "city_name": "Santa Rosa",
   "state_name": "Florida",
-  "lat": "30.693414500000006",
+  "lat": "30.69341450000001",
   "long": "-87.02458128",
   "timeline": [
     {
@@ -467,6 +467,11 @@
     {
       "date": "20-4-23",
       "confirmed": 141,
+      "deaths": 6
+    },
+    {
+      "date": "20-4-24",
+      "confirmed": 143,
       "deaths": 6
     }
   ]

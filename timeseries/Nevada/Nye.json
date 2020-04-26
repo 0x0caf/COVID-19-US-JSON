@@ -2,7 +2,7 @@
   "city_name": "Nye",
   "state_name": "Nevada",
   "lat": "38.04264256",
-  "long": "-116.4722702",
+  "long": "-116.47227020000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -466,6 +466,11 @@
     },
     {
       "date": "20-4-23",
+      "confirmed": 31,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-24",
       "confirmed": 31,
       "deaths": 0
     }
