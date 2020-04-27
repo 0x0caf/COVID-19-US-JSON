@@ -473,6 +473,16 @@
       "date": "20-4-24",
       "confirmed": 2018,
       "deaths": 98
+    },
+    {
+      "date": "20-4-25",
+      "confirmed": 2040,
+      "deaths": 99
+    },
+    {
+      "date": "20-4-26",
+      "confirmed": 2084,
+      "deaths": 100
     }
   ]
 }

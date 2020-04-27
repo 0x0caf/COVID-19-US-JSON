@@ -473,6 +473,16 @@
       "date": "20-4-24",
       "confirmed": 707,
       "deaths": 0
+    },
+    {
+      "date": "20-4-25",
+      "confirmed": 721,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-26",
+      "confirmed": 727,
+      "deaths": 0
     }
   ]
 }

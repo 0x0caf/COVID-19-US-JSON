@@ -473,6 +473,16 @@
       "date": "20-4-24",
       "confirmed": 1706,
       "deaths": 48
+    },
+    {
+      "date": "20-4-25",
+      "confirmed": 1836,
+      "deaths": 52
+    },
+    {
+      "date": "20-4-26",
+      "confirmed": 1947,
+      "deaths": 52
     }
   ]
 }
