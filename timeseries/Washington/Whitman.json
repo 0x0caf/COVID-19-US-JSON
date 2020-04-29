@@ -2,7 +2,7 @@
   "city_name": "Whitman",
   "state_name": "Washington",
   "lat": "46.90022523",
-  "long": "-117.52417630000001",
+  "long": "-117.5241763",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 14,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 14,
       "deaths": 0
     }

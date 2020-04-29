@@ -2,7 +2,7 @@
   "city_name": "Douglas",
   "state_name": "Oregon",
   "lat": "43.27941273",
-  "long": "-123.16729099999999",
+  "long": "-123.167291",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 23,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 23,
       "deaths": 0
     }

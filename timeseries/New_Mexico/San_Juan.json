@@ -2,7 +2,7 @@
   "city_name": "San Juan",
   "state_name": "New Mexico",
   "lat": "36.50838318",
-  "long": "-108.32043700000001",
+  "long": "-108.320437",
   "timeline": [
     {
       "date": "20-1-22",
@@ -482,6 +482,11 @@
     {
       "date": "20-4-26",
       "confirmed": 442,
+      "deaths": 35
+    },
+    {
+      "date": "20-4-27",
+      "confirmed": 463,
       "deaths": 35
     }
   ]

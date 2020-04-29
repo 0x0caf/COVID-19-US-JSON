@@ -2,7 +2,7 @@
   "city_name": "Wallace",
   "state_name": "Kansas",
   "lat": "38.91686134",
-  "long": "-101.76388759999999",
+  "long": "-101.7638876",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 0,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Smith",
   "state_name": "Texas",
   "lat": "32.37474036",
-  "long": "-95.27175679999999",
+  "long": "-95.2717568",
   "timeline": [
     {
       "date": "20-1-22",
@@ -482,6 +482,11 @@
     {
       "date": "20-4-26",
       "confirmed": 132,
+      "deaths": 3
+    },
+    {
+      "date": "20-4-27",
+      "confirmed": 134,
       "deaths": 3
     }
   ]

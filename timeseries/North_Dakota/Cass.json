@@ -2,7 +2,7 @@
   "city_name": "Cass",
   "state_name": "North Dakota",
   "lat": "46.93201724",
-  "long": "-97.24447190000001",
+  "long": "-97.2444719",
   "timeline": [
     {
       "date": "20-1-22",
@@ -483,6 +483,11 @@
       "date": "20-4-26",
       "confirmed": 397,
       "deaths": 10
+    },
+    {
+      "date": "20-4-27",
+      "confirmed": 431,
+      "deaths": 12
     }
   ]
 }

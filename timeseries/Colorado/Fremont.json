@@ -2,7 +2,7 @@
   "city_name": "Fremont",
   "state_name": "Colorado",
   "lat": "38.47362326",
-  "long": "-105.43996670000001",
+  "long": "-105.4399667",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 22,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 22,
       "deaths": 0
     }

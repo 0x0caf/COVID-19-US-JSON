@@ -2,7 +2,7 @@
   "city_name": "Box Butte",
   "state_name": "Nebraska",
   "lat": "42.22079243",
-  "long": "-103.08788340000001",
+  "long": "-103.0878834",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 1,
       "deaths": 0
     }

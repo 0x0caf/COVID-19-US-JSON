@@ -2,7 +2,7 @@
   "city_name": "Pierce",
   "state_name": "Washington",
   "lat": "47.03892768",
-  "long": "-122.14059579999999",
+  "long": "-122.1405958",
   "timeline": [
     {
       "date": "20-1-22",
@@ -483,6 +483,11 @@
       "date": "20-4-26",
       "confirmed": 1244,
       "deaths": 46
+    },
+    {
+      "date": "20-4-27",
+      "confirmed": 1263,
+      "deaths": 47
     }
   ]
 }

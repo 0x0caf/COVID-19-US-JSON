@@ -2,7 +2,7 @@
   "city_name": "Cochran",
   "state_name": "Texas",
   "lat": "33.60425307",
-  "long": "-102.82844990000001",
+  "long": "-102.8284499",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 1,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Marion",
   "state_name": "Oregon",
   "lat": "44.90287942",
-  "long": "-122.58151170000001",
+  "long": "-122.5815117",
   "timeline": [
     {
       "date": "20-1-22",
@@ -482,6 +482,11 @@
     {
       "date": "20-4-26",
       "confirmed": 436,
+      "deaths": 15
+    },
+    {
+      "date": "20-4-27",
+      "confirmed": 447,
       "deaths": 15
     }
   ]

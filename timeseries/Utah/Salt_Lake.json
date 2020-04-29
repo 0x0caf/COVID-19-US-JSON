@@ -2,7 +2,7 @@
   "city_name": "Salt Lake",
   "state_name": "Utah",
   "lat": "40.66616532",
-  "long": "-111.92160109999999",
+  "long": "-111.9216011",
   "timeline": [
     {
       "date": "20-1-22",
@@ -482,6 +482,11 @@
     {
       "date": "20-4-26",
       "confirmed": 2144,
+      "deaths": 24
+    },
+    {
+      "date": "20-4-27",
+      "confirmed": 2190,
       "deaths": 24
     }
   ]

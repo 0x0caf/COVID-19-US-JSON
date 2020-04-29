@@ -2,7 +2,7 @@
   "city_name": "Meade",
   "state_name": "Kansas",
   "lat": "37.23859987",
-  "long": "-100.36483100000001",
+  "long": "-100.364831",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 2,
       "deaths": 0
     }

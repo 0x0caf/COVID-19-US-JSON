@@ -2,7 +2,7 @@
   "city_name": "Marin",
   "state_name": "California",
   "lat": "38.07122463",
-  "long": "-122.72106310000001",
+  "long": "-122.7210631",
   "timeline": [
     {
       "date": "20-1-22",
@@ -482,6 +482,11 @@
     {
       "date": "20-4-26",
       "confirmed": 223,
+      "deaths": 12
+    },
+    {
+      "date": "20-4-27",
+      "confirmed": 224,
       "deaths": 12
     }
   ]

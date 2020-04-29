@@ -2,7 +2,7 @@
   "city_name": "Marion",
   "state_name": "Kansas",
   "lat": "38.35855394",
-  "long": "-97.09852509999999",
+  "long": "-97.0985251",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 5,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 5,
       "deaths": 1
     }

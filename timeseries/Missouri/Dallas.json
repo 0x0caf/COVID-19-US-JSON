@@ -1,7 +1,7 @@
 {
   "city_name": "Dallas",
   "state_name": "Missouri",
-  "lat": "37.681135499999996",
+  "lat": "37.6811355",
   "long": "-93.02127031",
   "timeline": [
     {
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 2,
       "deaths": 0
     }

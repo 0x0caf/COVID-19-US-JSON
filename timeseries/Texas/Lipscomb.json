@@ -2,7 +2,7 @@
   "city_name": "Lipscomb",
   "state_name": "Texas",
   "lat": "36.27783108",
-  "long": "-100.27331509999999",
+  "long": "-100.2733151",
   "timeline": [
     {
       "date": "20-1-22",
@@ -481,6 +481,11 @@
     },
     {
       "date": "20-4-26",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-27",
       "confirmed": 0,
       "deaths": 0
     }
