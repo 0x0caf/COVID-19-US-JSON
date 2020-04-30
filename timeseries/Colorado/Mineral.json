@@ -2,7 +2,7 @@
   "city_name": "Mineral",
   "state_name": "Colorado",
   "lat": "37.66954283",
-  "long": "-106.92816979999999",
+  "long": "-106.9281698",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 2,
       "deaths": 0
     }

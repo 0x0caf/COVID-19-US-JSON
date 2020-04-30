@@ -2,7 +2,7 @@
   "city_name": "West Feliciana",
   "state_name": "Louisiana",
   "lat": "30.87882871",
-  "long": "-91.41485379999999",
+  "long": "-91.4148538",
   "timeline": [
     {
       "date": "20-1-22",
@@ -492,6 +492,11 @@
     {
       "date": "20-4-28",
       "confirmed": 109,
+      "deaths": 3
+    },
+    {
+      "date": "20-4-29",
+      "confirmed": 111,
       "deaths": 3
     }
   ]

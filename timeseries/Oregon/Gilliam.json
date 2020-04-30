@@ -2,7 +2,7 @@
   "city_name": "Gilliam",
   "state_name": "Oregon",
   "lat": "45.37160076",
-  "long": "-120.20488689999999",
+  "long": "-120.2048869",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 0,
       "deaths": 0
     }

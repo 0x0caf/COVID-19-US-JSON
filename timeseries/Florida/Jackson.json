@@ -1,7 +1,7 @@
 {
   "city_name": "Jackson",
   "state_name": "Florida",
-  "lat": "30.795459700000002",
+  "lat": "30.7954597",
   "long": "-85.21500423",
   "timeline": [
     {
@@ -492,6 +492,11 @@
     {
       "date": "20-4-28",
       "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
+      "confirmed": 14,
       "deaths": 0
     }
   ]

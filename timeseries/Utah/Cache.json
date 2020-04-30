@@ -2,7 +2,7 @@
   "city_name": "Cache",
   "state_name": "Utah",
   "lat": "41.72330587",
-  "long": "-111.74436670000001",
+  "long": "-111.7443667",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 0,
       "deaths": 0
     }

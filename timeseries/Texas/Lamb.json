@@ -2,7 +2,7 @@
   "city_name": "Lamb",
   "state_name": "Texas",
   "lat": "34.06859623",
-  "long": "-102.35162890000001",
+  "long": "-102.3516289",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 3,
       "deaths": 0
     }

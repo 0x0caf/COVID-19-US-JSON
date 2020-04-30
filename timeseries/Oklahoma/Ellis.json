@@ -1,7 +1,7 @@
 {
   "city_name": "Ellis",
   "state_name": "Oklahoma",
-  "lat": "36.218019399999996",
+  "lat": "36.2180194",
   "long": "-99.75324573",
   "timeline": [
     {
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 0,
       "deaths": 0
     }

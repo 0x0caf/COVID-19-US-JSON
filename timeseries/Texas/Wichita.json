@@ -2,7 +2,7 @@
   "city_name": "Wichita",
   "state_name": "Texas",
   "lat": "33.98842886",
-  "long": "-98.70410340000001",
+  "long": "-98.7041034",
   "timeline": [
     {
       "date": "20-1-22",
@@ -492,6 +492,11 @@
     {
       "date": "20-4-28",
       "confirmed": 63,
+      "deaths": 2
+    },
+    {
+      "date": "20-4-29",
+      "confirmed": 64,
       "deaths": 2
     }
   ]

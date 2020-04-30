@@ -2,7 +2,7 @@
   "city_name": "Wasco",
   "state_name": "Oregon",
   "lat": "45.16292781",
-  "long": "-121.16709540000001",
+  "long": "-121.1670954",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 13,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 13,
       "deaths": 1
     }

@@ -2,7 +2,7 @@
   "city_name": "Hale",
   "state_name": "Texas",
   "lat": "34.07044901",
-  "long": "-101.82681140000001",
+  "long": "-101.8268114",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 24,
+      "deaths": 4
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 24,
       "deaths": 4
     }

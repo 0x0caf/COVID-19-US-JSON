@@ -2,7 +2,7 @@
   "city_name": "Adams",
   "state_name": "Washington",
   "lat": "46.98299757",
-  "long": "-118.56017340000001",
+  "long": "-118.5601734",
   "timeline": [
     {
       "date": "20-1-22",
@@ -492,6 +492,11 @@
     {
       "date": "20-4-28",
       "confirmed": 46,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
+      "confirmed": 47,
       "deaths": 0
     }
   ]

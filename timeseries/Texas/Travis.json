@@ -2,7 +2,7 @@
   "city_name": "Travis",
   "state_name": "Texas",
   "lat": "30.33432034",
-  "long": "-97.78535620000001",
+  "long": "-97.7853562",
   "timeline": [
     {
       "date": "20-1-22",
@@ -492,6 +492,11 @@
     {
       "date": "20-4-28",
       "confirmed": 1464,
+      "deaths": 42
+    },
+    {
+      "date": "20-4-29",
+      "confirmed": 1539,
       "deaths": 42
     }
   ]

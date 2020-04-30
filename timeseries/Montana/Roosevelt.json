@@ -2,7 +2,7 @@
   "city_name": "Roosevelt",
   "state_name": "Montana",
   "lat": "48.29607488",
-  "long": "-105.00792679999999",
+  "long": "-105.0079268",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 7,
       "deaths": 0
     }

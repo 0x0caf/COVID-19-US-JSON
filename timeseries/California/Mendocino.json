@@ -2,7 +2,7 @@
   "city_name": "Mendocino",
   "state_name": "California",
   "lat": "39.4381191",
-  "long": "-123.39113130000001",
+  "long": "-123.3911313",
   "timeline": [
     {
       "date": "20-1-22",
@@ -492,6 +492,11 @@
     {
       "date": "20-4-28",
       "confirmed": 11,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
+      "confirmed": 12,
       "deaths": 0
     }
   ]

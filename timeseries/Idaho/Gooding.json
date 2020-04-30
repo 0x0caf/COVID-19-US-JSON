@@ -2,7 +2,7 @@
   "city_name": "Gooding",
   "state_name": "Idaho",
   "lat": "42.96927962",
-  "long": "-114.81083059999999",
+  "long": "-114.8108306",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 9,
       "deaths": 0
     }

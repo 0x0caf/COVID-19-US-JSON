@@ -2,7 +2,7 @@
   "city_name": "Daggett",
   "state_name": "Utah",
   "lat": "40.88798265",
-  "long": "-109.51210929999999",
+  "long": "-109.5121093",
   "timeline": [
     {
       "date": "20-1-22",
@@ -491,6 +491,11 @@
     },
     {
       "date": "20-4-28",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-29",
       "confirmed": 0,
       "deaths": 0
     }

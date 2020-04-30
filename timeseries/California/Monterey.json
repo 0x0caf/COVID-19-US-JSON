@@ -2,7 +2,7 @@
   "city_name": "Monterey",
   "state_name": "California",
   "lat": "36.21862405",
-  "long": "-121.24133970000001",
+  "long": "-121.2413397",
   "timeline": [
     {
       "date": "20-1-22",
@@ -493,6 +493,11 @@
       "date": "20-4-28",
       "confirmed": 185,
       "deaths": 4
+    },
+    {
+      "date": "20-4-29",
+      "confirmed": 191,
+      "deaths": 5
     }
   ]
 }
