@@ -2,7 +2,7 @@
   "city_name": "Washington",
   "state_name": "Idaho",
   "lat": "44.45275475",
-  "long": "-116.7847688",
+  "long": "-116.78476880000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -486,6 +486,11 @@
     },
     {
       "date": "20-4-27",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-28",
       "confirmed": 1,
       "deaths": 0
     }

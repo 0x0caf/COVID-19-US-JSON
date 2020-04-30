@@ -1,7 +1,7 @@
 {
   "city_name": "Garrard",
   "state_name": "Kentucky",
-  "lat": "37.6388668",
+  "lat": "37.638866799999995",
   "long": "-84.53289319",
   "timeline": [
     {
@@ -486,6 +486,11 @@
     },
     {
       "date": "20-4-27",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-28",
       "confirmed": 2,
       "deaths": 0
     }

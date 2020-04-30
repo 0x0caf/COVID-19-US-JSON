@@ -2,7 +2,7 @@
   "city_name": "Nez Perce",
   "state_name": "Idaho",
   "lat": "46.32638236",
-  "long": "-116.7500975",
+  "long": "-116.75009750000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -488,6 +488,11 @@
       "date": "20-4-27",
       "confirmed": 58,
       "deaths": 13
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 59,
+      "deaths": 16
     }
   ]
 }

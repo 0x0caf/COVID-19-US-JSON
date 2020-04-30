@@ -2,7 +2,7 @@
   "city_name": "Stonewall",
   "state_name": "Texas",
   "lat": "33.17906744",
-  "long": "-100.2538401",
+  "long": "-100.25384009999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -486,6 +486,11 @@
     },
     {
       "date": "20-4-27",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-28",
       "confirmed": 0,
       "deaths": 0
     }

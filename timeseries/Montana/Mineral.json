@@ -2,7 +2,7 @@
   "city_name": "Mineral",
   "state_name": "Montana",
   "lat": "47.15283992",
-  "long": "-115.0015239",
+  "long": "-115.00152390000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -486,6 +486,11 @@
     },
     {
       "date": "20-4-27",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-28",
       "confirmed": 0,
       "deaths": 0
     }

@@ -1,7 +1,7 @@
 {
   "city_name": "Strafford",
   "state_name": "New Hampshire",
-  "lat": "43.291833",
+  "lat": "43.291833000000004",
   "long": "-71.02336013",
   "timeline": [
     {
@@ -487,6 +487,11 @@
     {
       "date": "20-4-27",
       "confirmed": 132,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 133,
       "deaths": 0
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Okanogan",
   "state_name": "Washington",
   "lat": "48.54855019",
-  "long": "-119.7387224",
+  "long": "-119.73872240000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -487,6 +487,11 @@
     {
       "date": "20-4-27",
       "confirmed": 20,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 21,
       "deaths": 1
     }
   ]

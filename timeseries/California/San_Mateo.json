@@ -1,7 +1,7 @@
 {
   "city_name": "San Mateo",
   "state_name": "California",
-  "lat": "37.4228808",
+  "lat": "37.422880799999994",
   "long": "-122.32755459999998",
   "timeline": [
     {
@@ -488,6 +488,11 @@
       "date": "20-4-27",
       "confirmed": 1080,
       "deaths": 41
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 1099,
+      "deaths": 48
     }
   ]
 }

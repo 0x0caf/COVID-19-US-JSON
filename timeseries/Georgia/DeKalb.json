@@ -488,6 +488,11 @@
       "date": "20-4-27",
       "confirmed": 1855,
       "deaths": 42
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 1887,
+      "deaths": 43
     }
   ]
 }

@@ -2,7 +2,7 @@
   "city_name": "Eureka",
   "state_name": "Nevada",
   "lat": "39.98100864",
-  "long": "-116.2683204",
+  "long": "-116.26832040000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -486,6 +486,11 @@
     },
     {
       "date": "20-4-27",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-28",
       "confirmed": 0,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Dawson",
   "state_name": "Nebraska",
   "lat": "40.87028216",
-  "long": "-99.8201461",
+  "long": "-99.82014609999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -487,6 +487,11 @@
     {
       "date": "20-4-27",
       "confirmed": 409,
+      "deaths": 0
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 410,
       "deaths": 0
     }
   ]

@@ -1,7 +1,7 @@
 {
   "city_name": "Cherokee",
   "state_name": "Texas",
-  "lat": "31.837258",
+  "lat": "31.837258000000002",
   "long": "-95.16559897",
   "timeline": [
     {
@@ -487,6 +487,11 @@
     {
       "date": "20-4-27",
       "confirmed": 12,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 14,
       "deaths": 1
     }
   ]

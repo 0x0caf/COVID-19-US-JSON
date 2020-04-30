@@ -488,6 +488,11 @@
       "date": "20-4-27",
       "confirmed": 1933,
       "deaths": 88
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 1977,
+      "deaths": 90
     }
   ]
 }

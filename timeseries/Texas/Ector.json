@@ -2,7 +2,7 @@
   "city_name": "Ector",
   "state_name": "Texas",
   "lat": "31.86898877",
-  "long": "-102.5429428",
+  "long": "-102.54294279999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -487,6 +487,11 @@
     {
       "date": "20-4-27",
       "confirmed": 70,
+      "deaths": 4
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 76,
       "deaths": 4
     }
   ]

@@ -1,7 +1,7 @@
 {
   "city_name": "Covington",
   "state_name": "Alabama",
-  "lat": "31.2477854",
+  "lat": "31.247785399999998",
   "long": "-86.45050893",
   "timeline": [
     {
@@ -487,6 +487,11 @@
     {
       "date": "20-4-27",
       "confirmed": 34,
+      "deaths": 1
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 35,
       "deaths": 1
     }
   ]

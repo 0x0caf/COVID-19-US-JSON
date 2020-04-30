@@ -1,7 +1,7 @@
 {
   "city_name": "Medina",
   "state_name": "Texas",
-  "lat": "29.3557301",
+  "lat": "29.355730100000002",
   "long": "-99.11030298",
   "timeline": [
     {
@@ -486,6 +486,11 @@
     },
     {
       "date": "20-4-27",
+      "confirmed": 19,
+      "deaths": 2
+    },
+    {
+      "date": "20-4-28",
       "confirmed": 19,
       "deaths": 2
     }

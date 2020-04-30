@@ -2,7 +2,7 @@
   "city_name": "San Diego",
   "state_name": "California",
   "lat": "33.03484597",
-  "long": "-116.7365326",
+  "long": "-116.73653259999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -488,6 +488,11 @@
       "date": "20-4-27",
       "confirmed": 3043,
       "deaths": 111
+    },
+    {
+      "date": "20-4-28",
+      "confirmed": 3141,
+      "deaths": 113
     }
   ]
 }
