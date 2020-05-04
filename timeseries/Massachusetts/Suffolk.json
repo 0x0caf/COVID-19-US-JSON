@@ -498,6 +498,26 @@
       "date": "20-4-29",
       "confirmed": 12539,
       "deaths": 504
+    },
+    {
+      "date": "20-4-30",
+      "confirmed": 12890,
+      "deaths": 524
+    },
+    {
+      "date": "20-5-1",
+      "confirmed": 13295,
+      "deaths": 550
+    },
+    {
+      "date": "20-5-2",
+      "confirmed": 13606,
+      "deaths": 569
+    },
+    {
+      "date": "20-5-3",
+      "confirmed": 13777,
+      "deaths": 588
     }
   ]
 }
