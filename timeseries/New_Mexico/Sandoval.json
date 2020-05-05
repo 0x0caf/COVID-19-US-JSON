@@ -2,7 +2,7 @@
   "city_name": "Sandoval",
   "state_name": "New Mexico",
   "lat": "35.68862401",
-  "long": "-106.8687803",
+  "long": "-106.86878030000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -517,6 +517,11 @@
     {
       "date": "20-5-3",
       "confirmed": 416,
+      "deaths": 19
+    },
+    {
+      "date": "20-5-4",
+      "confirmed": 421,
       "deaths": 19
     }
   ]

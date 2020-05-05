@@ -2,7 +2,7 @@
   "city_name": "Emery",
   "state_name": "Utah",
   "lat": "38.99617072",
-  "long": "-110.7013958",
+  "long": "-110.70139579999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -516,6 +516,11 @@
     },
     {
       "date": "20-5-3",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-4",
       "confirmed": 0,
       "deaths": 0
     }

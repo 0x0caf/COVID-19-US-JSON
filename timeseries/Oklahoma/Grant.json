@@ -1,7 +1,7 @@
 {
   "city_name": "Grant",
   "state_name": "Oklahoma",
-  "lat": "36.796297",
+  "lat": "36.796296999999996",
   "long": "-97.78638765",
   "timeline": [
     {
@@ -516,6 +516,11 @@
     },
     {
       "date": "20-5-3",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-4",
       "confirmed": 2,
       "deaths": 0
     }

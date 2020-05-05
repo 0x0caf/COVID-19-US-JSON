@@ -2,7 +2,7 @@
   "city_name": "Delta",
   "state_name": "Colorado",
   "lat": "38.86246243",
-  "long": "-107.8631342",
+  "long": "-107.86313419999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -517,6 +517,11 @@
     {
       "date": "20-5-3",
       "confirmed": 50,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-4",
+      "confirmed": 51,
       "deaths": 1
     }
   ]

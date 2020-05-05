@@ -2,7 +2,7 @@
   "city_name": "Polk",
   "state_name": "Texas",
   "lat": "30.79472531",
-  "long": "-94.8276624",
+  "long": "-94.82766240000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -516,6 +516,11 @@
     },
     {
       "date": "20-5-3",
+      "confirmed": 20,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-4",
       "confirmed": 20,
       "deaths": 0
     }

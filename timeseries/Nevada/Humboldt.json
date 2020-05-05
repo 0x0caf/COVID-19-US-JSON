@@ -2,7 +2,7 @@
   "city_name": "Humboldt",
   "state_name": "Nevada",
   "lat": "41.40692186",
-  "long": "-118.1109427",
+  "long": "-118.11094270000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -518,6 +518,11 @@
       "date": "20-5-3",
       "confirmed": 49,
       "deaths": 2
+    },
+    {
+      "date": "20-5-4",
+      "confirmed": 50,
+      "deaths": 3
     }
   ]
 }

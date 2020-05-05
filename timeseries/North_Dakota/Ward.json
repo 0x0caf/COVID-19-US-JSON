@@ -2,7 +2,7 @@
   "city_name": "Ward",
   "state_name": "North Dakota",
   "lat": "48.22390169",
-  "long": "-101.5436763",
+  "long": "-101.54367629999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -516,6 +516,11 @@
     },
     {
       "date": "20-5-3",
+      "confirmed": 25,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-4",
       "confirmed": 25,
       "deaths": 1
     }

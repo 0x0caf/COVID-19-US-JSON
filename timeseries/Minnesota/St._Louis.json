@@ -1,7 +1,7 @@
 {
   "city_name": "St. Louis",
   "state_name": "Minnesota",
-  "lat": "47.6048407",
+  "lat": "47.604840700000004",
   "long": "-92.46879855",
   "timeline": [
     {
@@ -517,6 +517,11 @@
     {
       "date": "20-5-3",
       "confirmed": 75,
+      "deaths": 11
+    },
+    {
+      "date": "20-5-4",
+      "confirmed": 79,
       "deaths": 11
     }
   ]

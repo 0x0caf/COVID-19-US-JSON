@@ -2,7 +2,7 @@
   "city_name": "Marshall",
   "state_name": "Iowa",
   "lat": "42.03586837",
-  "long": "-92.9990819",
+  "long": "-92.99908190000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -517,6 +517,11 @@
     {
       "date": "20-5-3",
       "confirmed": 603,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-4",
+      "confirmed": 630,
       "deaths": 2
     }
   ]

@@ -1,7 +1,7 @@
 {
   "city_name": "Bristol",
   "state_name": "Virginia",
-  "lat": "36.6163024",
+  "lat": "36.616302399999995",
   "long": "-82.16359122",
   "timeline": [
     {
@@ -516,6 +516,11 @@
     },
     {
       "date": "20-5-3",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-4",
       "confirmed": 2,
       "deaths": 0
     }

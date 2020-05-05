@@ -2,7 +2,7 @@
   "city_name": "Greer",
   "state_name": "Oklahoma",
   "lat": "34.93535801",
-  "long": "-99.5605612",
+  "long": "-99.56056120000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -516,6 +516,11 @@
     },
     {
       "date": "20-5-3",
+      "confirmed": 65,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-4",
       "confirmed": 65,
       "deaths": 6
     }

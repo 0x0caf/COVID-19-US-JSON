@@ -2,7 +2,7 @@
   "city_name": "Hot Springs",
   "state_name": "Wyoming",
   "lat": "43.71930657",
-  "long": "-108.4423174",
+  "long": "-108.44231740000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -516,6 +516,11 @@
     },
     {
       "date": "20-5-3",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-4",
       "confirmed": 3,
       "deaths": 0
     }

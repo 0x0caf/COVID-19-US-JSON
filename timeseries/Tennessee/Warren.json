@@ -1,7 +1,7 @@
 {
   "city_name": "Warren",
   "state_name": "Tennessee",
-  "lat": "35.6728299",
+  "lat": "35.672829899999996",
   "long": "-85.77969117",
   "timeline": [
     {
@@ -516,6 +516,11 @@
     },
     {
       "date": "20-5-3",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-4",
       "confirmed": 8,
       "deaths": 0
     }

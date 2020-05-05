@@ -2,7 +2,7 @@
   "city_name": "Fayette",
   "state_name": "Iowa",
   "lat": "42.86271799",
-  "long": "-91.8441231",
+  "long": "-91.84412309999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -517,6 +517,11 @@
     {
       "date": "20-5-3",
       "confirmed": 22,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-4",
+      "confirmed": 23,
       "deaths": 0
     }
   ]

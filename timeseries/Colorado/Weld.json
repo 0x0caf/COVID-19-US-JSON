@@ -2,7 +2,7 @@
   "city_name": "Weld",
   "state_name": "Colorado",
   "lat": "40.55499405",
-  "long": "-104.3929621",
+  "long": "-104.39296209999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -518,6 +518,11 @@
       "date": "20-5-3",
       "confirmed": 1872,
       "deaths": 100
+    },
+    {
+      "date": "20-5-4",
+      "confirmed": 1897,
+      "deaths": 102
     }
   ]
 }
