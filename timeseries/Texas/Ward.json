@@ -2,7 +2,7 @@
   "city_name": "Ward",
   "state_name": "Texas",
   "lat": "31.50999644",
-  "long": "-103.09279090000001",
+  "long": "-103.0927909",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 0,
       "deaths": 0
     }

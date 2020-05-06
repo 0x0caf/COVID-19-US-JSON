@@ -2,7 +2,7 @@
   "city_name": "Tooele",
   "state_name": "Utah",
   "lat": "40.44862644",
-  "long": "-113.12957150000001",
+  "long": "-113.1295715",
   "timeline": [
     {
       "date": "20-1-22",
@@ -522,6 +522,11 @@
     {
       "date": "20-5-4",
       "confirmed": 71,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
+      "confirmed": 70,
       "deaths": 0
     }
   ]

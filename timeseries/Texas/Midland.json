@@ -2,7 +2,7 @@
   "city_name": "Midland",
   "state_name": "Texas",
   "lat": "31.86904128",
-  "long": "-102.03156820000001",
+  "long": "-102.0315682",
   "timeline": [
     {
       "date": "20-1-22",
@@ -522,6 +522,11 @@
     {
       "date": "20-5-4",
       "confirmed": 89,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-5",
+      "confirmed": 90,
       "deaths": 8
     }
   ]

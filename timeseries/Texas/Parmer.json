@@ -2,7 +2,7 @@
   "city_name": "Parmer",
   "state_name": "Texas",
   "lat": "34.52993409",
-  "long": "-102.78446679999999",
+  "long": "-102.7844668",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 13,
       "deaths": 0
     }

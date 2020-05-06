@@ -2,7 +2,7 @@
   "city_name": "Yuba",
   "state_name": "California",
   "lat": "39.26255932",
-  "long": "-121.35356440000001",
+  "long": "-121.3535644",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 19,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 19,
       "deaths": 1
     }

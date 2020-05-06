@@ -2,7 +2,7 @@
   "city_name": "Armstrong",
   "state_name": "Texas",
   "lat": "34.96507426",
-  "long": "-101.35748740000001",
+  "long": "-101.3574874",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 2,
       "deaths": 0
     }

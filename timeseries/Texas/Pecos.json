@@ -2,7 +2,7 @@
   "city_name": "Pecos",
   "state_name": "Texas",
   "lat": "30.78097267",
-  "long": "-102.72412609999999",
+  "long": "-102.7241261",
   "timeline": [
     {
       "date": "20-1-22",
@@ -522,6 +522,11 @@
     {
       "date": "20-5-4",
       "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
+      "confirmed": 13,
       "deaths": 0
     }
   ]

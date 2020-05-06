@@ -2,7 +2,7 @@
   "city_name": "Fisher",
   "state_name": "Texas",
   "lat": "32.74281316",
-  "long": "-100.40193020000001",
+  "long": "-100.4019302",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 0,
       "deaths": 0
     }

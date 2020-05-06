@@ -2,7 +2,7 @@
   "city_name": "Dawson",
   "state_name": "Texas",
   "lat": "32.74255572",
-  "long": "-101.94772420000001",
+  "long": "-101.9477242",
   "timeline": [
     {
       "date": "20-1-22",
@@ -522,6 +522,11 @@
     {
       "date": "20-5-4",
       "confirmed": 26,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-5",
+      "confirmed": 29,
       "deaths": 1
     }
   ]

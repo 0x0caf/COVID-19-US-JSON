@@ -2,7 +2,7 @@
   "city_name": "Lewis",
   "state_name": "Washington",
   "lat": "46.57756476",
-  "long": "-122.39257690000001",
+  "long": "-122.3925769",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 29,
+      "deaths": 3
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 29,
       "deaths": 3
     }

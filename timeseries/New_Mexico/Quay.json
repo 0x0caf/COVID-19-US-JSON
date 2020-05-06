@@ -2,7 +2,7 @@
   "city_name": "Quay",
   "state_name": "New Mexico",
   "lat": "35.10403332",
-  "long": "-103.54817270000001",
+  "long": "-103.5481727",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 4,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 4,
       "deaths": 1
     }

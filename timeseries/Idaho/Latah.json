@@ -2,7 +2,7 @@
   "city_name": "Latah",
   "state_name": "Idaho",
   "lat": "46.81587887",
-  "long": "-116.71136979999999",
+  "long": "-116.7113698",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 5,
       "deaths": 0
     }

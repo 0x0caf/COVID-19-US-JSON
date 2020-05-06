@@ -2,7 +2,7 @@
   "city_name": "Kearny",
   "state_name": "Kansas",
   "lat": "38.00017981",
-  "long": "-101.32168100000001",
+  "long": "-101.321681",
   "timeline": [
     {
       "date": "20-1-22",
@@ -522,6 +522,11 @@
     {
       "date": "20-5-4",
       "confirmed": 21,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
+      "confirmed": 23,
       "deaths": 0
     }
   ]

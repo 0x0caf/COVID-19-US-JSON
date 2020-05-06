@@ -2,7 +2,7 @@
   "city_name": "Kane",
   "state_name": "Utah",
   "lat": "37.28507306",
-  "long": "-111.88617520000001",
+  "long": "-111.8861752",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 0,
       "deaths": 0
     }

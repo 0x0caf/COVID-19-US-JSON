@@ -2,7 +2,7 @@
   "city_name": "Lake",
   "state_name": "California",
   "lat": "39.10124298",
-  "long": "-122.75362439999999",
+  "long": "-122.7536244",
   "timeline": [
     {
       "date": "20-1-22",
@@ -522,6 +522,11 @@
     {
       "date": "20-5-4",
       "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
+      "confirmed": 8,
       "deaths": 0
     }
   ]

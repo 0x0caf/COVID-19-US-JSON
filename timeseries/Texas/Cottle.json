@@ -2,7 +2,7 @@
   "city_name": "Cottle",
   "state_name": "Texas",
   "lat": "34.07783319",
-  "long": "-100.27850620000001",
+  "long": "-100.2785062",
   "timeline": [
     {
       "date": "20-1-22",
@@ -522,6 +522,11 @@
     {
       "date": "20-5-4",
       "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
+      "confirmed": 3,
       "deaths": 0
     }
   ]

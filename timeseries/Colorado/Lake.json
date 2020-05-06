@@ -2,7 +2,7 @@
   "city_name": "Lake",
   "state_name": "Colorado",
   "lat": "39.20278823",
-  "long": "-106.35556969999999",
+  "long": "-106.3555697",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 21,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 21,
       "deaths": 0
     }

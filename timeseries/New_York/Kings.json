@@ -1,7 +1,7 @@
 {
   "city_name": "Kings",
   "state_name": "New York",
-  "lat": "40.636182500000004",
+  "lat": "40.6361825",
   "long": "-73.94935552",
   "timeline": [
     {
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 0,
       "deaths": 0
     }

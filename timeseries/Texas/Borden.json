@@ -2,7 +2,7 @@
   "city_name": "Borden",
   "state_name": "Texas",
   "lat": "32.74363984",
-  "long": "-101.43165090000001",
+  "long": "-101.4316509",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 0,
       "deaths": 0
     }

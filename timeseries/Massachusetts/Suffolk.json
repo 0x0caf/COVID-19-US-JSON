@@ -1,7 +1,7 @@
 {
   "city_name": "Suffolk",
   "state_name": "Massachusetts",
-  "lat": "42.327951399999996",
+  "lat": "42.3279514",
   "long": "-71.07850442",
   "timeline": [
     {
@@ -523,6 +523,11 @@
       "date": "20-5-4",
       "confirmed": 13941,
       "deaths": 596
+    },
+    {
+      "date": "20-5-5",
+      "confirmed": 14173,
+      "deaths": 609
     }
   ]
 }

@@ -2,7 +2,7 @@
   "city_name": "White Pine",
   "state_name": "Nevada",
   "lat": "39.44157041",
-  "long": "-114.89996599999999",
+  "long": "-114.899966",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 3,
       "deaths": 0
     }

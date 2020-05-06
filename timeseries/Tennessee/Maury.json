@@ -1,7 +1,7 @@
 {
   "city_name": "Maury",
   "state_name": "Tennessee",
-  "lat": "35.618741299999996",
+  "lat": "35.6187413",
   "long": "-87.07462444",
   "timeline": [
     {
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 49,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 49,
       "deaths": 0
     }

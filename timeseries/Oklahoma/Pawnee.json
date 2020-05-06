@@ -2,7 +2,7 @@
   "city_name": "Pawnee",
   "state_name": "Oklahoma",
   "lat": "36.31743373",
-  "long": "-96.70331759999999",
+  "long": "-96.7033176",
   "timeline": [
     {
       "date": "20-1-22",
@@ -521,6 +521,11 @@
     },
     {
       "date": "20-5-4",
+      "confirmed": 29,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-5",
       "confirmed": 29,
       "deaths": 2
     }
