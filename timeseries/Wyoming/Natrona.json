@@ -2,7 +2,7 @@
   "city_name": "Natrona",
   "state_name": "Wyoming",
   "lat": "42.96180148",
-  "long": "-106.797885",
+  "long": "-106.79788500000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 48,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 48,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 48,
       "deaths": 0
     }

@@ -1,7 +1,7 @@
 {
   "city_name": "Park",
   "state_name": "Colorado",
-  "lat": "39.120926",
+  "lat": "39.120926000000004",
   "long": "-105.7182065",
   "timeline": [
     {
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 14,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 15,
       "deaths": 0
     }
   ]

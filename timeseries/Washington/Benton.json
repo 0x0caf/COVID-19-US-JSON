@@ -2,7 +2,7 @@
   "city_name": "Benton",
   "state_name": "Washington",
   "lat": "46.23946995",
-  "long": "-119.5120834",
+  "long": "-119.51208340000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 537,
       "deaths": 46
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 548,
+      "deaths": 46
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 550,
+      "deaths": 47
     }
   ]
 }

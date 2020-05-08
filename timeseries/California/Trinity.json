@@ -1,7 +1,7 @@
 {
   "city_name": "Trinity",
   "state_name": "California",
-  "lat": "40.64917670000001",
+  "lat": "40.649176700000005",
   "long": "-123.114713",
   "timeline": [
     {
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Weston",
   "state_name": "Wyoming",
   "lat": "43.83961191",
-  "long": "-104.5674881",
+  "long": "-104.56748809999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

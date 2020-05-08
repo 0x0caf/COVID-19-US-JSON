@@ -2,7 +2,7 @@
   "city_name": "Whatcom",
   "state_name": "Washington",
   "lat": "48.82227976",
-  "long": "-121.7490018",
+  "long": "-121.74900179999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 318,
       "deaths": 29
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 324,
+      "deaths": 30
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 328,
+      "deaths": 33
     }
   ]
 }

@@ -2,7 +2,7 @@
   "city_name": "Denver",
   "state_name": "Colorado",
   "lat": "39.76018276",
-  "long": "-104.8725695",
+  "long": "-104.87256950000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 3546,
       "deaths": 188
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 3674,
+      "deaths": 195
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 3799,
+      "deaths": 199
     }
   ]
 }

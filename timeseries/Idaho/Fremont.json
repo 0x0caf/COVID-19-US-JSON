@@ -2,7 +2,7 @@
   "city_name": "Fremont",
   "state_name": "Idaho",
   "lat": "44.22800938",
-  "long": "-111.4809943",
+  "long": "-111.48099429999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 3,
       "deaths": 0
     }

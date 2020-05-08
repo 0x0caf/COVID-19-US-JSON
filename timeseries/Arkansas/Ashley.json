@@ -2,7 +2,7 @@
   "city_name": "Ashley",
   "state_name": "Arkansas",
   "lat": "33.19153461",
-  "long": "-91.7698471",
+  "long": "-91.76984709999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 17,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 17,
       "deaths": 0
     }
   ]

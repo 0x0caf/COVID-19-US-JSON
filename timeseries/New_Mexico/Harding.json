@@ -2,7 +2,7 @@
   "city_name": "Harding",
   "state_name": "New Mexico",
   "lat": "35.85751555",
-  "long": "-103.8220938",
+  "long": "-103.82209379999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 1,
       "deaths": 0
     }

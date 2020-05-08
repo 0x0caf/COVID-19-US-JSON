@@ -1,8 +1,8 @@
 {
   "city_name": "Lander",
   "state_name": "Nevada",
-  "lat": "39.9332233",
-  "long": "-117.0397075",
+  "lat": "39.933223299999995",
+  "long": "-117.03970749999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 14,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 14,
       "deaths": 0
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "DeWitt",
   "state_name": "Texas",
   "lat": "29.08101855",
-  "long": "-97.3568117",
+  "long": "-97.35681170000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 15,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 15,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 15,
       "deaths": 1
     }

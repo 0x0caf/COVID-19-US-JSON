@@ -2,7 +2,7 @@
   "city_name": "Jim Hogg",
   "state_name": "Texas",
   "lat": "27.04453923",
-  "long": "-98.6968187",
+  "long": "-98.69681870000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 3,
       "deaths": 0
     }

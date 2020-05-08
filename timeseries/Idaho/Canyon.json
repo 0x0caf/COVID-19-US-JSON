@@ -2,7 +2,7 @@
   "city_name": "Canyon",
   "state_name": "Idaho",
   "lat": "43.61970148",
-  "long": "-116.7095499",
+  "long": "-116.70954990000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 266,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 270,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 272,
       "deaths": 6
     }
   ]

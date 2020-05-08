@@ -1,7 +1,7 @@
 {
   "city_name": "Polk",
   "state_name": "Missouri",
-  "lat": "37.6162296",
+  "lat": "37.616229600000004",
   "long": "-93.39828174",
   "timeline": [
     {
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 1,
       "deaths": 0
     }

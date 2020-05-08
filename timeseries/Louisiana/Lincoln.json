@@ -2,7 +2,7 @@
   "city_name": "Lincoln",
   "state_name": "Louisiana",
   "lat": "32.6003154",
-  "long": "-92.6659741",
+  "long": "-92.66597409999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 96,
       "deaths": 10
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 99,
+      "deaths": 11
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 101,
+      "deaths": 11
     }
   ]
 }

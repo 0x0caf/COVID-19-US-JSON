@@ -1,7 +1,7 @@
 {
   "city_name": "",
   "state_name": "American Samoa",
-  "lat": "-14.271",
+  "lat": "-14.270999999999999",
   "long": "-170.132",
   "timeline": [
     {
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

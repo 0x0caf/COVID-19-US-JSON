@@ -2,7 +2,7 @@
   "city_name": "Skamania",
   "state_name": "Washington",
   "lat": "46.02408726",
-  "long": "-121.9164403",
+  "long": "-121.91644029999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 3,
       "deaths": 0
     }

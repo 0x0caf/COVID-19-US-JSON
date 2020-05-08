@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 166,
       "deaths": 1
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 170,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 173,
+      "deaths": 1
     }
   ]
 }

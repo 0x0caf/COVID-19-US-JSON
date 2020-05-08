@@ -2,7 +2,7 @@
   "city_name": "Franklin",
   "state_name": "Idaho",
   "lat": "42.18332217",
-  "long": "-111.8149666",
+  "long": "-111.81496659999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

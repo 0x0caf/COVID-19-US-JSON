@@ -2,7 +2,7 @@
   "city_name": "Yakima",
   "state_name": "Washington",
   "lat": "46.45738486",
-  "long": "-120.7380126",
+  "long": "-120.73801259999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 1389,
       "deaths": 52
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 1449,
+      "deaths": 52
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 1547,
+      "deaths": 57
     }
   ]
 }

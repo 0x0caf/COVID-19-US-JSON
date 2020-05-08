@@ -2,7 +2,7 @@
   "city_name": "Douglas",
   "state_name": "Nevada",
   "lat": "38.912862",
-  "long": "-119.6171333",
+  "long": "-119.61713329999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 22,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 22,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 22,
       "deaths": 0
     }

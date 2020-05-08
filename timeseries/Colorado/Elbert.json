@@ -2,7 +2,7 @@
   "city_name": "Elbert",
   "state_name": "Colorado",
   "lat": "39.28656773",
-  "long": "-104.1358721",
+  "long": "-104.13587209999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 36,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 37,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 37,
       "deaths": 1
     }
   ]

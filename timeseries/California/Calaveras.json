@@ -2,7 +2,7 @@
   "city_name": "Calaveras",
   "state_name": "California",
   "lat": "38.20537103",
-  "long": "-120.552913",
+  "long": "-120.55291299999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 13,
       "deaths": 0
     }

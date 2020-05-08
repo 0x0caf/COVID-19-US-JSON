@@ -1,7 +1,7 @@
 {
   "city_name": "Boyd",
   "state_name": "Nebraska",
-  "lat": "42.8997274",
+  "lat": "42.899727399999996",
   "long": "-98.76486568",
   "timeline": [
     {
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

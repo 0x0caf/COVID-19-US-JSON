@@ -2,7 +2,7 @@
   "city_name": "Carbon",
   "state_name": "Utah",
   "lat": "39.64834818",
-  "long": "-110.5872512",
+  "long": "-110.58725120000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

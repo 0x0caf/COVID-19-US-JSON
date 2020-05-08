@@ -1,7 +1,7 @@
 {
   "city_name": "Jackson",
   "state_name": "Colorado",
-  "lat": "40.66593870000001",
+  "lat": "40.665938700000005",
   "long": "-106.3408905",
   "timeline": [
     {
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

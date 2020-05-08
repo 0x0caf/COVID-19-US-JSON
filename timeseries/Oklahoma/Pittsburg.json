@@ -2,7 +2,7 @@
   "city_name": "Pittsburg",
   "state_name": "Oklahoma",
   "lat": "34.92065823",
-  "long": "-95.7513432",
+  "long": "-95.75134320000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 39,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 39,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 39,
       "deaths": 2
     }

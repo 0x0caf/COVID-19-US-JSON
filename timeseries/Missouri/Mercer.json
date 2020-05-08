@@ -2,7 +2,7 @@
   "city_name": "Mercer",
   "state_name": "Missouri",
   "lat": "40.42212303",
-  "long": "-93.5682959",
+  "long": "-93.56829590000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

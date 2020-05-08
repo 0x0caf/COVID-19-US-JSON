@@ -2,7 +2,7 @@
   "city_name": "Jefferson",
   "state_name": "Alabama",
   "lat": "33.55554728",
-  "long": "-86.89506300000002",
+  "long": "-86.89506300000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 1020,
       "deaths": 49
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 1048,
+      "deaths": 53
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 1065,
+      "deaths": 57
     }
   ]
 }

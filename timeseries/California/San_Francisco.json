@@ -2,7 +2,7 @@
   "city_name": "San Francisco",
   "state_name": "California",
   "lat": "37.75215114",
-  "long": "-122.4385672",
+  "long": "-122.43856720000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 1728,
       "deaths": 31
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 1754,
+      "deaths": 31
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 1806,
+      "deaths": 32
     }
   ]
 }

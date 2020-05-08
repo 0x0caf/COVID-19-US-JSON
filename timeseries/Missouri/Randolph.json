@@ -2,7 +2,7 @@
   "city_name": "Randolph",
   "state_name": "Missouri",
   "lat": "39.44007257",
-  "long": "-92.4971374",
+  "long": "-92.49713740000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 8,
       "deaths": 0
     }

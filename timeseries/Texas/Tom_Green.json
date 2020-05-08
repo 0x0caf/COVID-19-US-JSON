@@ -2,7 +2,7 @@
   "city_name": "Tom Green",
   "state_name": "Texas",
   "lat": "31.40464436",
-  "long": "-100.462443",
+  "long": "-100.46244300000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 79,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 83,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 84,
       "deaths": 1
     }
   ]

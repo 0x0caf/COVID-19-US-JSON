@@ -2,7 +2,7 @@
   "city_name": "Platte",
   "state_name": "Wyoming",
   "lat": "42.13299116",
-  "long": "-104.966331",
+  "long": "-104.96633100000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 0,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Dunn",
   "state_name": "North Dakota",
   "lat": "47.35423935",
-  "long": "-102.6160468",
+  "long": "-102.61604679999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 11,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 11,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 11,
       "deaths": 0
     }

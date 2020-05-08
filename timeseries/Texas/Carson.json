@@ -2,7 +2,7 @@
   "city_name": "Carson",
   "state_name": "Texas",
   "lat": "35.40365929",
-  "long": "-101.3542669",
+  "long": "-101.35426690000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 3,
       "deaths": 0
     }

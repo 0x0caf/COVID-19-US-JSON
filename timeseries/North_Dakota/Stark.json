@@ -2,7 +2,7 @@
   "city_name": "Stark",
   "state_name": "North Dakota",
   "lat": "46.80851182",
-  "long": "-102.6576326",
+  "long": "-102.65763259999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 57,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 57,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 60,
       "deaths": 2
     }
   ]

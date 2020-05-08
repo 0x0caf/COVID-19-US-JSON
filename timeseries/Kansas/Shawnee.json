@@ -2,7 +2,7 @@
   "city_name": "Shawnee",
   "state_name": "Kansas",
   "lat": "39.04100763",
-  "long": "-95.7557264",
+  "long": "-95.75572640000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 133,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 137,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 140,
       "deaths": 5
     }
   ]

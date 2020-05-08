@@ -1,8 +1,8 @@
 {
   "city_name": "Utah",
   "state_name": "Utah",
-  "lat": "40.1166722",
-  "long": "-111.6657662",
+  "lat": "40.116672200000004",
+  "long": "-111.66576620000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 1171,
       "deaths": 10
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 1210,
+      "deaths": 10
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 1219,
+      "deaths": 11
     }
   ]
 }

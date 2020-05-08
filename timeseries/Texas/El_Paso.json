@@ -2,7 +2,7 @@
   "city_name": "El Paso",
   "state_name": "Texas",
   "lat": "31.76980765",
-  "long": "-106.2363275",
+  "long": "-106.23632749999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 1029,
       "deaths": 22
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 1080,
+      "deaths": 22
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 1119,
+      "deaths": 23
     }
   ]
 }

@@ -2,7 +2,7 @@
   "city_name": "Broadwater",
   "state_name": "Montana",
   "lat": "46.33277565",
-  "long": "-111.4955813",
+  "long": "-111.49558130000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 4,
       "deaths": 0
     }

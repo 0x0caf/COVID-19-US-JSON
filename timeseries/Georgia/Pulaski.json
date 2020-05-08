@@ -2,7 +2,7 @@
   "city_name": "Pulaski",
   "state_name": "Georgia",
   "lat": "32.23334561",
-  "long": "-83.47549959999998",
+  "long": "-83.47549959999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 33,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 33,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 34,
       "deaths": 1
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Anchorage",
   "state_name": "Alaska",
   "lat": "61.14998174",
-  "long": "-149.14269860000005",
+  "long": "-149.14269860000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 190,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 190,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 191,
       "deaths": 4
     }
   ]

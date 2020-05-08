@@ -2,7 +2,7 @@
   "city_name": "Walworth",
   "state_name": "South Dakota",
   "lat": "45.43019636",
-  "long": "-100.0307514",
+  "long": "-100.03075140000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 5,
       "deaths": 0
     }

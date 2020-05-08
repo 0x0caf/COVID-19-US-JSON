@@ -2,7 +2,7 @@
   "city_name": "Harford",
   "state_name": "Maryland",
   "lat": "39.55010644",
-  "long": "-76.30775940000002",
+  "long": "-76.30775940000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 499,
       "deaths": 19
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 532,
+      "deaths": 21
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 552,
+      "deaths": 22
     }
   ]
 }

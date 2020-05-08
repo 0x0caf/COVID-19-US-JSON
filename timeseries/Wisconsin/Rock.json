@@ -2,7 +2,7 @@
   "city_name": "Rock",
   "state_name": "Wisconsin",
   "lat": "42.67151616",
-  "long": "-89.07147900000002",
+  "long": "-89.07147900000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -528,6 +528,16 @@
       "date": "20-5-5",
       "confirmed": 301,
       "deaths": 9
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 311,
+      "deaths": 10
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 324,
+      "deaths": 12
     }
   ]
 }

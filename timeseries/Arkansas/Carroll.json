@@ -1,7 +1,7 @@
 {
   "city_name": "Carroll",
   "state_name": "Arkansas",
-  "lat": "36.34038560000001",
+  "lat": "36.340385600000005",
   "long": "-93.54270261",
   "timeline": [
     {
@@ -526,6 +526,16 @@
     },
     {
       "date": "20-5-5",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-7",
       "confirmed": 6,
       "deaths": 0
     }

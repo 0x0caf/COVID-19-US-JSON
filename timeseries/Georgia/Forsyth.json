@@ -2,7 +2,7 @@
   "city_name": "Forsyth",
   "state_name": "Georgia",
   "lat": "34.22604035",
-  "long": "-84.12315129999998",
+  "long": "-84.12315129999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 347,
+      "deaths": 10
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 356,
+      "deaths": 10
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 361,
       "deaths": 10
     }
   ]

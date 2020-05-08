@@ -1,7 +1,7 @@
 {
   "city_name": "Chautauqua",
   "state_name": "New York",
-  "lat": "42.22769210000001",
+  "lat": "42.227692100000006",
   "long": "-79.36691763",
   "timeline": [
     {
@@ -527,6 +527,16 @@
     {
       "date": "20-5-5",
       "confirmed": 37,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-6",
+      "confirmed": 38,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-7",
+      "confirmed": 40,
       "deaths": 4
     }
   ]
