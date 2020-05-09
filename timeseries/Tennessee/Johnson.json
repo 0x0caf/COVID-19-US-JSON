@@ -1,7 +1,7 @@
 {
   "city_name": "Johnson",
   "state_name": "Tennessee",
-  "lat": "36.455239500000005",
+  "lat": "36.45523950000001",
   "long": "-81.84886538",
   "timeline": [
     {
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 5,
       "deaths": 0
     }

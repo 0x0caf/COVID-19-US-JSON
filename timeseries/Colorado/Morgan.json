@@ -1,7 +1,7 @@
 {
   "city_name": "Morgan",
   "state_name": "Colorado",
-  "lat": "40.262798100000005",
+  "lat": "40.26279810000001",
   "long": "-103.8093302",
   "timeline": [
     {
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 448,
+      "deaths": 22
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 463,
       "deaths": 22
     }
   ]

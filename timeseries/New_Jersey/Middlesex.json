@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 13411,
       "deaths": 737
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 13617,
+      "deaths": 748
     }
   ]
 }

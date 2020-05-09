@@ -2,7 +2,7 @@
   "city_name": "Reeves",
   "state_name": "Texas",
   "lat": "31.32323325",
-  "long": "-103.69038959999999",
+  "long": "-103.6903896",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 7,
       "deaths": 0
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Brewster",
   "state_name": "Texas",
   "lat": "29.81008251",
-  "long": "-103.25203259999999",
+  "long": "-103.2520326",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 1,
       "deaths": 0
     }

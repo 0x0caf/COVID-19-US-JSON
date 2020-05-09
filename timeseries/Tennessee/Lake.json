@@ -1,7 +1,7 @@
 {
   "city_name": "Lake",
   "state_name": "Tennessee",
-  "lat": "36.341801700000005",
+  "lat": "36.34180170000001",
   "long": "-89.48921915",
   "timeline": [
     {
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 59,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 59,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Flathead",
   "state_name": "Montana",
   "lat": "48.29575866",
-  "long": "-114.05205690000001",
+  "long": "-114.0520569",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 37,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 37,
       "deaths": 2
     }

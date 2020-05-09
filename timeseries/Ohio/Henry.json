@@ -1,7 +1,7 @@
 {
   "city_name": "Henry",
   "state_name": "Ohio",
-  "lat": "41.333964200000004",
+  "lat": "41.3339642",
   "long": "-84.06830637",
   "timeline": [
     {
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 8,
       "deaths": 0
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Sherman",
   "state_name": "Kansas",
   "lat": "39.35147699",
-  "long": "-101.71976240000001",
+  "long": "-101.7197624",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 5,
       "deaths": 0
     }

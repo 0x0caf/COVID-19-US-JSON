@@ -2,7 +2,7 @@
   "city_name": "Clarke",
   "state_name": "Mississippi",
   "lat": "32.04158545",
-  "long": "-88.68896219999999",
+  "long": "-88.68896219999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 71,
       "deaths": 6
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 77,
+      "deaths": 7
     }
   ]
 }

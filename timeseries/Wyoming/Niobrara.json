@@ -2,7 +2,7 @@
   "city_name": "Niobrara",
   "state_name": "Wyoming",
   "lat": "43.05607708",
-  "long": "-104.47588959999999",
+  "long": "-104.4758896",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 2,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Curry",
   "state_name": "New Mexico",
   "lat": "34.57421077",
-  "long": "-103.34688759999999",
+  "long": "-103.3468876",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 26,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 28,
       "deaths": 0
     }
   ]

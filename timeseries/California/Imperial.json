@@ -2,7 +2,7 @@
   "city_name": "Imperial",
   "state_name": "California",
   "lat": "33.0393082",
-  "long": "-115.36690420000001",
+  "long": "-115.3669042",
   "timeline": [
     {
       "date": "20-1-22",
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 455,
       "deaths": 11
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 512,
+      "deaths": 12
     }
   ]
 }

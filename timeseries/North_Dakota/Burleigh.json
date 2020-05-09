@@ -2,7 +2,7 @@
   "city_name": "Burleigh",
   "state_name": "North Dakota",
   "lat": "46.97847375",
-  "long": "-100.46452140000001",
+  "long": "-100.4645214",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 102,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 103,
       "deaths": 0
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Sterling",
   "state_name": "Texas",
   "lat": "31.82781912",
-  "long": "-101.05007459999999",
+  "long": "-101.0500746",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 0,
       "deaths": 0
     }

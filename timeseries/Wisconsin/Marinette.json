@@ -2,7 +2,7 @@
   "city_name": "Marinette",
   "state_name": "Wisconsin",
   "lat": "45.38553432",
-  "long": "-88.03324599999999",
+  "long": "-88.03324599999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 13,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 15,
       "deaths": 1
     }
   ]

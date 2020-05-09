@@ -2,7 +2,7 @@
   "city_name": "Daviess",
   "state_name": "Kentucky",
   "lat": "37.73028906",
-  "long": "-87.09019479999999",
+  "long": "-87.09019479999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 258,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 260,
       "deaths": 4
     }
   ]

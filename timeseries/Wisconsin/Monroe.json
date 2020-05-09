@@ -2,7 +2,7 @@
   "city_name": "Monroe",
   "state_name": "Wisconsin",
   "lat": "43.94641218",
-  "long": "-90.61881899999999",
+  "long": "-90.618819",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 14,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 14,
       "deaths": 1
     }

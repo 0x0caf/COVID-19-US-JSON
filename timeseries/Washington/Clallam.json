@@ -2,7 +2,7 @@
   "city_name": "Clallam",
   "state_name": "Washington",
   "lat": "48.04754642",
-  "long": "-123.92263190000001",
+  "long": "-123.9226319",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 19,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 19,
       "deaths": 0
     }

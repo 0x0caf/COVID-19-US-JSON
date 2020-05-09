@@ -1,7 +1,7 @@
 {
   "city_name": "Orange",
   "state_name": "Indiana",
-  "lat": "38.541189200000005",
+  "lat": "38.54118920000001",
   "long": "-86.49523093",
   "timeline": [
     {
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 106,
       "deaths": 14
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 108,
+      "deaths": 17
     }
   ]
 }

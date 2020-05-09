@@ -2,7 +2,7 @@
   "city_name": "Crittenden",
   "state_name": "Kentucky",
   "lat": "37.35839237",
-  "long": "-88.08826090000001",
+  "long": "-88.08826090000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 4,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 4,
       "deaths": 1
     }

@@ -2,7 +2,7 @@
   "city_name": "Yoakum",
   "state_name": "Texas",
   "lat": "33.17320212",
-  "long": "-102.82764329999999",
+  "long": "-102.8276433",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 2,
       "deaths": 0
     }

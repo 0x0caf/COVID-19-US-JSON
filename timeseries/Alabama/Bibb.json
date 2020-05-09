@@ -2,7 +2,7 @@
   "city_name": "Bibb",
   "state_name": "Alabama",
   "lat": "32.99642064",
-  "long": "-87.12511459999999",
+  "long": "-87.12511459999997",
   "timeline": [
     {
       "date": "20-1-22",
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 44,
       "deaths": 0
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 44,
+      "deaths": 1
     }
   ]
 }

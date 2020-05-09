@@ -2,7 +2,7 @@
   "city_name": "Sacramento",
   "state_name": "California",
   "lat": "38.45106826",
-  "long": "-121.34253740000001",
+  "long": "-121.3425374",
   "timeline": [
     {
       "date": "20-1-22",
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 1153,
       "deaths": 49
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 1160,
+      "deaths": 50
     }
   ]
 }

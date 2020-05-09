@@ -2,7 +2,7 @@
   "city_name": "Berrien",
   "state_name": "Michigan",
   "lat": "41.95447397",
-  "long": "-86.41313079999999",
+  "long": "-86.41313079999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 354,
       "deaths": 21
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 376,
+      "deaths": 22
     }
   ]
 }

@@ -2,7 +2,7 @@
   "city_name": "Radford",
   "state_name": "Virginia",
   "lat": "37.12222899",
-  "long": "-80.56027320000001",
+  "long": "-80.56027320000003",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 3,
       "deaths": 0
     }

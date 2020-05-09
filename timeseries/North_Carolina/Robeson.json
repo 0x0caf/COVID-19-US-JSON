@@ -2,7 +2,7 @@
   "city_name": "Robeson",
   "state_name": "North Carolina",
   "lat": "34.64244496",
-  "long": "-79.10250529999999",
+  "long": "-79.10250529999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 323,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 327,
       "deaths": 4
     }
   ]

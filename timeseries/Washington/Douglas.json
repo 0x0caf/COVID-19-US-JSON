@@ -2,7 +2,7 @@
   "city_name": "Douglas",
   "state_name": "Washington",
   "lat": "47.7361335",
-  "long": "-119.69293700000001",
+  "long": "-119.692937",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 98,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 102,
       "deaths": 2
     }
   ]

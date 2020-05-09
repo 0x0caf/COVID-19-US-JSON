@@ -2,7 +2,7 @@
   "city_name": "Park",
   "state_name": "Wyoming",
   "lat": "44.52157546",
-  "long": "-109.58528249999999",
+  "long": "-109.5852825",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 1,
       "deaths": 0
     }

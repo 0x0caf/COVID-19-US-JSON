@@ -2,7 +2,7 @@
   "city_name": "Orange",
   "state_name": "Virginia",
   "lat": "38.24530219",
-  "long": "-78.01560400000001",
+  "long": "-78.01560400000002",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 43,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 43,
       "deaths": 0
     }

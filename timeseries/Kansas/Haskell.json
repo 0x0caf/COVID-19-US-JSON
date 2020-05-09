@@ -1,7 +1,7 @@
 {
   "city_name": "Haskell",
   "state_name": "Kansas",
-  "lat": "37.562039399999996",
+  "lat": "37.5620394",
   "long": "-100.8710738",
   "timeline": [
     {
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 14,
       "deaths": 0
     }
   ]

@@ -1,7 +1,7 @@
 {
   "city_name": "New Haven",
   "state_name": "Connecticut",
-  "lat": "41.408032500000004",
+  "lat": "41.4080325",
   "long": "-72.93620426",
   "timeline": [
     {
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 8678,
       "deaths": 643
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 8887,
+      "deaths": 669
     }
   ]
 }

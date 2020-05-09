@@ -2,7 +2,7 @@
   "city_name": "Towns",
   "state_name": "Georgia",
   "lat": "34.91369188",
-  "long": "-83.74107459999999",
+  "long": "-83.74107459999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 20,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 20,
       "deaths": 1
     }

@@ -2,7 +2,7 @@
   "city_name": "Choctaw",
   "state_name": "Alabama",
   "lat": "32.02227341",
-  "long": "-88.26564429999999",
+  "long": "-88.26564429999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 56,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 59,
       "deaths": 0
     }
   ]

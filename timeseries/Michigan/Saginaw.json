@@ -2,7 +2,7 @@
   "city_name": "Saginaw",
   "state_name": "Michigan",
   "lat": "43.33433923",
-  "long": "-84.05131209999999",
+  "long": "-84.05131209999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 772,
       "deaths": 78
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 779,
+      "deaths": 79
     }
   ]
 }

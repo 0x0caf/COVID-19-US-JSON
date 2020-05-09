@@ -1,7 +1,7 @@
 {
   "city_name": "Refugio",
   "state_name": "Texas",
-  "lat": "28.323897600000002",
+  "lat": "28.3238976",
   "long": "-97.15766311",
   "timeline": [
     {
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 1,
       "deaths": 0
     }

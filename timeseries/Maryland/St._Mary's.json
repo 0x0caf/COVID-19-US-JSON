@@ -2,7 +2,7 @@
   "city_name": "St. Mary's",
   "state_name": "Maryland",
   "lat": "38.30058422",
-  "long": "-76.60629279999999",
+  "long": "-76.60629279999998",
   "timeline": [
     {
       "date": "20-1-22",
@@ -537,6 +537,11 @@
     {
       "date": "20-5-7",
       "confirmed": 193,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 207,
       "deaths": 8
     }
   ]

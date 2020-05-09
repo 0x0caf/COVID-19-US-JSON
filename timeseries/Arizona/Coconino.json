@@ -2,7 +2,7 @@
   "city_name": "Coconino",
   "state_name": "Arizona",
   "lat": "35.83883429",
-  "long": "-111.77071780000001",
+  "long": "-111.7707178",
   "timeline": [
     {
       "date": "20-1-22",
@@ -538,6 +538,11 @@
       "date": "20-5-7",
       "confirmed": 618,
       "deaths": 49
+    },
+    {
+      "date": "20-5-8",
+      "confirmed": 659,
+      "deaths": 55
     }
   ]
 }

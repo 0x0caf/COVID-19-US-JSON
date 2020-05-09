@@ -1,7 +1,7 @@
 {
   "city_name": "Russell",
   "state_name": "Virginia",
-  "lat": "36.930283200000005",
+  "lat": "36.93028320000001",
   "long": "-82.10095486",
   "timeline": [
     {
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 6,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Rawlins",
   "state_name": "Kansas",
   "lat": "39.78525843",
-  "long": "-101.07616170000001",
+  "long": "-101.0761617",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 0,
       "deaths": 0
     }

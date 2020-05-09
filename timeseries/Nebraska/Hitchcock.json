@@ -2,7 +2,7 @@
   "city_name": "Hitchcock",
   "state_name": "Nebraska",
   "lat": "40.17609175",
-  "long": "-101.04164770000001",
+  "long": "-101.0416477",
   "timeline": [
     {
       "date": "20-1-22",
@@ -536,6 +536,11 @@
     },
     {
       "date": "20-5-7",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-8",
       "confirmed": 1,
       "deaths": 0
     }
