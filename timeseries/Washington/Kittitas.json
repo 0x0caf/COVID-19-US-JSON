@@ -2,7 +2,7 @@
   "city_name": "Kittitas",
   "state_name": "Washington",
   "lat": "47.12521214",
-  "long": "-120.679439",
+  "long": "-120.67943899999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 17,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 18,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 40,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 40,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 40,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 39,
       "deaths": 0
     }
   ]

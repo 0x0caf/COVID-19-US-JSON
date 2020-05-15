@@ -2,7 +2,7 @@
   "city_name": "Pecos",
   "state_name": "Texas",
   "lat": "30.78097267",
-  "long": "-102.7241261",
+  "long": "-102.72412609999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 14,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 19,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 20,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 20,
       "deaths": 0
     }
   ]

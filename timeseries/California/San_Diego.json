@@ -2,7 +2,7 @@
   "city_name": "San Diego",
   "state_name": "California",
   "lat": "33.03484597",
-  "long": "-116.7365326",
+  "long": "-116.73653259999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 4429,
       "deaths": 165
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 4662,
+      "deaths": 169
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 4776,
+      "deaths": 175
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 5065,
+      "deaths": 175
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 5161,
+      "deaths": 190
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 5161,
+      "deaths": 190
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 5391,
+      "deaths": 200
     }
   ]
 }

@@ -2,7 +2,7 @@
   "city_name": "Dawson",
   "state_name": "Nebraska",
   "lat": "40.87028216",
-  "long": "-99.8201461",
+  "long": "-99.82014609999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 680,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 705,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 707,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 712,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 717,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 753,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 756,
       "deaths": 0
     }
   ]

@@ -1,7 +1,7 @@
 {
   "city_name": "Milam",
   "state_name": "Texas",
-  "lat": "30.785818300000006",
+  "lat": "30.78581830000001",
   "long": "-96.97718698",
   "timeline": [
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 18,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 20,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 20,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 20,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 20,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 20,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 22,
       "deaths": 1
     }
   ]

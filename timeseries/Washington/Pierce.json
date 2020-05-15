@@ -2,7 +2,7 @@
   "city_name": "Pierce",
   "state_name": "Washington",
   "lat": "47.03892768",
-  "long": "-122.1405958",
+  "long": "-122.14059579999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 1510,
       "deaths": 55
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 1539,
+      "deaths": 57
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 1562,
+      "deaths": 57
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 1582,
+      "deaths": 58
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 1593,
+      "deaths": 59
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 1604,
+      "deaths": 60
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 1626,
+      "deaths": 60
     }
   ]
 }

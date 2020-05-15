@@ -2,7 +2,7 @@
   "city_name": "Sioux",
   "state_name": "North Dakota",
   "lat": "46.11323337",
-  "long": "-101.0440149",
+  "long": "-101.04401490000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -541,6 +541,36 @@
     },
     {
       "date": "20-5-8",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
       "confirmed": 1,
       "deaths": 0
     }

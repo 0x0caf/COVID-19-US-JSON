@@ -2,7 +2,7 @@
   "city_name": "Seward",
   "state_name": "Kansas",
   "lat": "37.19324632",
-  "long": "-100.8507201",
+  "long": "-100.85072009999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 678,
       "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 681,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 686,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 707,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 727,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 743,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 754,
+      "deaths": 1
     }
   ]
 }

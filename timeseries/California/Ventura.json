@@ -2,7 +2,7 @@
   "city_name": "Ventura",
   "state_name": "California",
   "lat": "34.44465746",
-  "long": "-119.0910613",
+  "long": "-119.09106129999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 631,
       "deaths": 19
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 652,
+      "deaths": 19
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 666,
+      "deaths": 19
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 678,
+      "deaths": 19
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 698,
+      "deaths": 19
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 725,
+      "deaths": 24
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 748,
+      "deaths": 25
     }
   ]
 }

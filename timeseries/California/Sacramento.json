@@ -2,7 +2,7 @@
   "city_name": "Sacramento",
   "state_name": "California",
   "lat": "38.45106826",
-  "long": "-121.3425374",
+  "long": "-121.34253740000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 1160,
       "deaths": 50
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 1165,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 1167,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 1173,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 1181,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 1183,
+      "deaths": 51
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 1194,
+      "deaths": 54
     }
   ]
 }

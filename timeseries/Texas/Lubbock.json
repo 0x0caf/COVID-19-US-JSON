@@ -2,7 +2,7 @@
   "city_name": "Lubbock",
   "state_name": "Texas",
   "lat": "33.61008596",
-  "long": "-101.8204789",
+  "long": "-101.82047890000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 582,
       "deaths": 48
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 583,
+      "deaths": 49
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 589,
+      "deaths": 49
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 592,
+      "deaths": 49
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 598,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 605,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 607,
+      "deaths": 50
     }
   ]
 }

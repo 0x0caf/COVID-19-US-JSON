@@ -1,7 +1,7 @@
 {
   "city_name": "Henry",
   "state_name": "Ohio",
-  "lat": "41.3339642",
+  "lat": "41.333964200000004",
   "long": "-84.06830637",
   "timeline": [
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 10,
       "deaths": 0
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Lincoln",
   "state_name": "South Dakota",
   "lat": "43.27841182",
-  "long": "-96.7203905",
+  "long": "-96.72039050000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 180,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 186,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 188,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 191,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 190,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 193,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 195,
       "deaths": 0
     }
   ]

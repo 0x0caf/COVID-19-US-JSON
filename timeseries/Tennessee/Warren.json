@@ -1,7 +1,7 @@
 {
   "city_name": "Warren",
   "state_name": "Tennessee",
-  "lat": "35.6728299",
+  "lat": "35.672829899999996",
   "long": "-85.77969117",
   "timeline": [
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 12,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 12,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 12,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 14,
       "deaths": 0
     }
   ]

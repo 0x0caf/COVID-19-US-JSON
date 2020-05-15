@@ -2,7 +2,7 @@
   "city_name": "Jackson",
   "state_name": "Oregon",
   "lat": "42.43201126",
-  "long": "-122.7289309",
+  "long": "-122.72893090000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 49,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 49,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 49,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 49,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 50,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 50,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 50,
       "deaths": 0
     }
   ]

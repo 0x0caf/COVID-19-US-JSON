@@ -2,7 +2,7 @@
   "city_name": "Scurry",
   "state_name": "Texas",
   "lat": "32.74613808",
-  "long": "-100.9162664",
+  "long": "-100.91626640000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -541,6 +541,36 @@
     },
     {
       "date": "20-5-8",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
       "confirmed": 2,
       "deaths": 0
     }

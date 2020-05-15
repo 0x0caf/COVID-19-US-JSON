@@ -2,7 +2,7 @@
   "city_name": "Nevada",
   "state_name": "California",
   "lat": "39.30394768",
-  "long": "-120.7627281",
+  "long": "-120.76272809999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -541,6 +541,36 @@
     },
     {
       "date": "20-5-8",
+      "confirmed": 41,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 41,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 41,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 41,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 41,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 41,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-14",
       "confirmed": 41,
       "deaths": 1
     }

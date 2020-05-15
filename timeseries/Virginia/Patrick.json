@@ -1,7 +1,7 @@
 {
   "city_name": "Patrick",
   "state_name": "Virginia",
-  "lat": "36.6801638",
+  "lat": "36.680163799999995",
   "long": "-80.2865648",
   "timeline": [
     {
@@ -531,7 +531,7 @@
     },
     {
       "date": "20-5-6",
-      "confirmed": 2,
+      "confirmed": 3,
       "deaths": 0
     },
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 6,
       "deaths": 0
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Wichita",
   "state_name": "Texas",
   "lat": "33.98842886",
-  "long": "-98.7041034",
+  "long": "-98.70410340000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 71,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 74,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 75,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 75,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 75,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 76,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 77,
       "deaths": 2
     }
   ]

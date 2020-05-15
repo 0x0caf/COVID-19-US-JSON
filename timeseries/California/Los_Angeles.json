@@ -2,7 +2,7 @@
   "city_name": "Los Angeles",
   "state_name": "California",
   "lat": "34.30828379",
-  "long": "-118.2282411",
+  "long": "-118.22824109999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 30319,
       "deaths": 1470
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 31241,
+      "deaths": 1515
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 31703,
+      "deaths": 1531
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 32263,
+      "deaths": 1570
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 33211,
+      "deaths": 1616
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 34538,
+      "deaths": 1660
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 35392,
+      "deaths": 1711
     }
   ]
 }

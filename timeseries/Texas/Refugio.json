@@ -1,7 +1,7 @@
 {
   "city_name": "Refugio",
   "state_name": "Texas",
-  "lat": "28.3238976",
+  "lat": "28.323897600000002",
   "long": "-97.15766311",
   "timeline": [
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 3,
       "deaths": 0
     }
   ]

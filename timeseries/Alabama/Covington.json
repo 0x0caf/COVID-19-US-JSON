@@ -1,7 +1,7 @@
 {
   "city_name": "Covington",
   "state_name": "Alabama",
-  "lat": "31.2477854",
+  "lat": "31.247785399999998",
   "long": "-86.45050893",
   "timeline": [
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 50,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 50,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 53,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 55,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 56,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 56,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 56,
       "deaths": 1
     }
   ]

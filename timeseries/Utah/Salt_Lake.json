@@ -2,7 +2,7 @@
   "city_name": "Salt Lake",
   "state_name": "Utah",
   "lat": "40.66616532",
-  "long": "-111.9216011",
+  "long": "-111.92160109999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 3104,
       "deaths": 39
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 3206,
+      "deaths": 43
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 3291,
+      "deaths": 44
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 3365,
+      "deaths": 45
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 3414,
+      "deaths": 49
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 3530,
+      "deaths": 51
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 3604,
+      "deaths": 51
     }
   ]
 }

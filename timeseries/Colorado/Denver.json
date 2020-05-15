@@ -2,7 +2,7 @@
   "city_name": "Denver",
   "state_name": "Colorado",
   "lat": "39.76018276",
-  "long": "-104.8725695",
+  "long": "-104.87256950000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 3892,
       "deaths": 202
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 4001,
+      "deaths": 205
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 4070,
+      "deaths": 206
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 4118,
+      "deaths": 212
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 4187,
+      "deaths": 214
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 4254,
+      "deaths": 233
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 4359,
+      "deaths": 237
     }
   ]
 }

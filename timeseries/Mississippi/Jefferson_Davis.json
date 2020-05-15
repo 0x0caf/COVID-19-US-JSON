@@ -2,7 +2,7 @@
   "city_name": "Jefferson Davis",
   "state_name": "Mississippi",
   "lat": "31.56884708",
-  "long": "-89.82670990000003",
+  "long": "-89.82670990000004",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 51,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 53,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 53,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 55,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 58,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 60,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 63,
       "deaths": 1
     }
   ]

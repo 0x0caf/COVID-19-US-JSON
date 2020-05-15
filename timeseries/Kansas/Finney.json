@@ -2,7 +2,7 @@
   "city_name": "Finney",
   "state_name": "Kansas",
   "lat": "38.04340344",
-  "long": "-100.7381938",
+  "long": "-100.73819379999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 861,
       "deaths": 3
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 902,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 902,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 992,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 994,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 1101,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 1175,
+      "deaths": 5
     }
   ]
 }

@@ -2,7 +2,7 @@
   "city_name": "Merced",
   "state_name": "California",
   "lat": "37.18922369",
-  "long": "-120.7209035",
+  "long": "-120.72090349999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 157,
       "deaths": 3
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 163,
+      "deaths": 3
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 163,
+      "deaths": 3
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 173,
+      "deaths": 3
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 177,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 180,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 189,
+      "deaths": 4
     }
   ]
 }

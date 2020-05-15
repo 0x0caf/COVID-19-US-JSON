@@ -1,7 +1,7 @@
 {
   "city_name": "Colorado",
   "state_name": "Texas",
-  "lat": "29.622098",
+  "lat": "29.622097999999998",
   "long": "-96.5273805",
   "timeline": [
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 18,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 18,
       "deaths": 0
     }
   ]

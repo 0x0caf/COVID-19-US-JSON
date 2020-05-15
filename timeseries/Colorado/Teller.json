@@ -2,7 +2,7 @@
   "city_name": "Teller",
   "state_name": "Colorado",
   "lat": "38.88133511",
-  "long": "-105.1614893",
+  "long": "-105.16148929999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 30,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 30,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 31,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 31,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 31,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 31,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 31,
       "deaths": 2
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "San Francisco",
   "state_name": "California",
   "lat": "37.75215114",
-  "long": "-122.4385672",
+  "long": "-122.43856720000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 1853,
       "deaths": 33
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 1891,
+      "deaths": 33
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 1943,
+      "deaths": 34
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 1954,
+      "deaths": 35
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 1977,
+      "deaths": 35
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 1994,
+      "deaths": 35
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 1999,
+      "deaths": 35
     }
   ]
 }

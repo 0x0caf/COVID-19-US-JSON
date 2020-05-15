@@ -1,7 +1,7 @@
 {
   "city_name": "Haskell",
   "state_name": "Kansas",
-  "lat": "37.5620394",
+  "lat": "37.562039399999996",
   "long": "-100.8710738",
   "timeline": [
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 14,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 16,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 16,
       "deaths": 0
     }
   ]

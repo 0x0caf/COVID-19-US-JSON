@@ -2,7 +2,7 @@
   "city_name": "Cass",
   "state_name": "North Dakota",
   "lat": "46.93201724",
-  "long": "-97.2444719",
+  "long": "-97.24447190000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 752,
       "deaths": 17
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 781,
+      "deaths": 18
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 805,
+      "deaths": 18
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 821,
+      "deaths": 21
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 866,
+      "deaths": 23
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 935,
+      "deaths": 23
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 991,
+      "deaths": 25
     }
   ]
 }

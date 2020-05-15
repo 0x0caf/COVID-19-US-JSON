@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 906,
       "deaths": 6
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 908,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 918,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 937,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 938,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 950,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 955,
+      "deaths": 6
     }
   ]
 }

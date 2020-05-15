@@ -2,7 +2,7 @@
   "city_name": "Dona Ana",
   "state_name": "New Mexico",
   "lat": "32.35275771",
-  "long": "-106.8329387",
+  "long": "-106.83293870000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 206,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 201,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 221,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 245,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 245,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 249,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 259,
       "deaths": 2
     }
   ]

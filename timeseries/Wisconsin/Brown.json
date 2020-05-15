@@ -1,7 +1,7 @@
 {
   "city_name": "Brown",
   "state_name": "Wisconsin",
-  "lat": "44.4526553",
+  "lat": "44.452655299999996",
   "long": "-88.00411844",
   "timeline": [
     {
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 1777,
       "deaths": 13
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 1834,
+      "deaths": 18
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 1897,
+      "deaths": 18
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 1924,
+      "deaths": 18
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 1958,
+      "deaths": 20
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 1982,
+      "deaths": 20
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 1999,
+      "deaths": 21
     }
   ]
 }

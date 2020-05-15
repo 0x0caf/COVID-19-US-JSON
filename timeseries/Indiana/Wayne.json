@@ -1,7 +1,7 @@
 {
   "city_name": "Wayne",
   "state_name": "Indiana",
-  "lat": "39.8633444",
+  "lat": "39.863344399999995",
   "long": "-85.01044989",
   "timeline": [
     {
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 51,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 52,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 53,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 53,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 57,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 56,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 58,
       "deaths": 5
     }
   ]

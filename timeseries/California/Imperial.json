@@ -2,7 +2,7 @@
   "city_name": "Imperial",
   "state_name": "California",
   "lat": "33.0393082",
-  "long": "-115.3669042",
+  "long": "-115.36690420000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 512,
       "deaths": 12
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 512,
+      "deaths": 12
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 512,
+      "deaths": 12
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 564,
+      "deaths": 12
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 603,
+      "deaths": 13
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 647,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 712,
+      "deaths": 15
     }
   ]
 }

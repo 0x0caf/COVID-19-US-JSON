@@ -2,7 +2,7 @@
   "city_name": "Kearny",
   "state_name": "Kansas",
   "lat": "38.00017981",
-  "long": "-101.321681",
+  "long": "-101.32168100000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 28,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 30,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 30,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 31,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 32,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 34,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 34,
       "deaths": 0
     }
   ]

@@ -2,7 +2,7 @@
   "city_name": "Washington",
   "state_name": "Idaho",
   "lat": "44.45275475",
-  "long": "-116.7847688",
+  "long": "-116.78476880000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 13,
       "deaths": 0
     }
   ]

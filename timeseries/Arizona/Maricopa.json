@@ -2,7 +2,7 @@
   "city_name": "Maricopa",
   "state_name": "Arizona",
   "lat": "33.34835867",
-  "long": "-112.4918154",
+  "long": "-112.49181540000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 5525,
       "deaths": 238
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 5779,
+      "deaths": 245
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 5827,
+      "deaths": 247
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 5988,
+      "deaths": 250
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 6219,
+      "deaths": 259
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 6341,
+      "deaths": 281
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 6599,
+      "deaths": 292
     }
   ]
 }

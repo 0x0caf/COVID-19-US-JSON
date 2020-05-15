@@ -2,7 +2,7 @@
   "city_name": "Placer",
   "state_name": "California",
   "lat": "39.06167234",
-  "long": "-120.7240569",
+  "long": "-120.72405690000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 165,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 168,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 169,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 170,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 170,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 170,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 172,
       "deaths": 8
     }
   ]

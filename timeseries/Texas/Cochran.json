@@ -2,7 +2,7 @@
   "city_name": "Cochran",
   "state_name": "Texas",
   "lat": "33.60425307",
-  "long": "-102.8284499",
+  "long": "-102.82844990000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -541,6 +541,36 @@
     },
     {
       "date": "20-5-8",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 1,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
       "confirmed": 1,
       "deaths": 0
     }

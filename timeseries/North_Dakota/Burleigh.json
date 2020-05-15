@@ -2,7 +2,7 @@
   "city_name": "Burleigh",
   "state_name": "North Dakota",
   "lat": "46.97847375",
-  "long": "-100.4645214",
+  "long": "-100.46452140000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 103,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 103,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 103,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 104,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 105,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 106,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 107,
       "deaths": 0
     }
   ]

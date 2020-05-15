@@ -2,7 +2,7 @@
   "city_name": "Thurston",
   "state_name": "Washington",
   "lat": "46.9291895",
-  "long": "-122.8290656",
+  "long": "-122.82906559999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -542,6 +542,36 @@
     {
       "date": "20-5-8",
       "confirmed": 115,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 117,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 121,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 121,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 122,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 122,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 123,
       "deaths": 1
     }
   ]

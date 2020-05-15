@@ -2,7 +2,7 @@
   "city_name": "Linn",
   "state_name": "Oregon",
   "lat": "44.48899494",
-  "long": "-122.5373154",
+  "long": "-122.53731540000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -543,6 +543,36 @@
       "date": "20-5-8",
       "confirmed": 100,
       "deaths": 7
+    },
+    {
+      "date": "20-5-9",
+      "confirmed": 102,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-10",
+      "confirmed": 102,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-11",
+      "confirmed": 103,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-12",
+      "confirmed": 104,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-13",
+      "confirmed": 105,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-14",
+      "confirmed": 107,
+      "deaths": 8
     }
   ]
 }
