@@ -2,7 +2,7 @@
   "city_name": "Antelope",
   "state_name": "Nebraska",
   "lat": "42.17695516",
-  "long": "-98.06662829999999",
+  "long": "-98.0666283",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 5,
       "deaths": 0
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 9,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 9,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 9,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 9,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 9,
+      "deaths": 1
     }
   ]
 }

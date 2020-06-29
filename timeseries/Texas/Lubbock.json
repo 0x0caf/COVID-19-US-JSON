@@ -2,7 +2,7 @@
   "city_name": "Lubbock",
   "state_name": "Texas",
   "lat": "33.61008596",
-  "long": "-101.82047890000001",
+  "long": "-101.8204789",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 607,
       "deaths": 50
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 614,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 616,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 619,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 619,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 624,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 630,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 639,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 639,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 656,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 662,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 664,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 667,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 674,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 677,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 677,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 688,
+      "deaths": 50
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 691,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 692,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 704,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 706,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 707,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 720,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 734,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 741,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 747,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 756,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 759,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 775,
+      "deaths": 50
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 790,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 813,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 847,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 857,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 894,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 955,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 1031,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 1136,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 1208,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 1288,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 1320,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 1407,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 1547,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 1665,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 1795,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 1916,
+      "deaths": 51
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 1984,
+      "deaths": 51
     }
   ]
 }

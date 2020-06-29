@@ -1,7 +1,7 @@
 {
   "city_name": "Jackson",
   "state_name": "Florida",
-  "lat": "30.795459700000002",
+  "lat": "30.7954597",
   "long": "-85.21500423",
   "timeline": [
     {
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 105,
       "deaths": 0
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 125,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 126,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 129,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 131,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 148,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 171,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 173,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 219,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 225,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 230,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 238,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 239,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 240,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 241,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 248,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 249,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 251,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 256,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 266,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 269,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 290,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 298,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 298,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 308,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 309,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 310,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 311,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 315,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 316,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 318,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 319,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 320,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 326,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 329,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 327,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 329,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 330,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 333,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 338,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 341,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 342,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 347,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 350,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 353,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 359,
+      "deaths": 2
     }
   ]
 }

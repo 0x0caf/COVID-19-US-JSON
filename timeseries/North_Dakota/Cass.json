@@ -2,7 +2,7 @@
   "city_name": "Cass",
   "state_name": "North Dakota",
   "lat": "46.93201724",
-  "long": "-97.24447190000001",
+  "long": "-97.2444719",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 991,
       "deaths": 25
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 1032,
+      "deaths": 26
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 1106,
+      "deaths": 26
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 1147,
+      "deaths": 26
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 1173,
+      "deaths": 27
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 1229,
+      "deaths": 28
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 1277,
+      "deaths": 32
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 1370,
+      "deaths": 34
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 1442,
+      "deaths": 34
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 1487,
+      "deaths": 35
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 1528,
+      "deaths": 36
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 1564,
+      "deaths": 37
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 1580,
+      "deaths": 37
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 1596,
+      "deaths": 37
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 1632,
+      "deaths": 40
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 1661,
+      "deaths": 42
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 1685,
+      "deaths": 43
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 1705,
+      "deaths": 44
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 1744,
+      "deaths": 44
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 1762,
+      "deaths": 54
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 1783,
+      "deaths": 55
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 1803,
+      "deaths": 55
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 1834,
+      "deaths": 59
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 1880,
+      "deaths": 60
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 1911,
+      "deaths": 60
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 1917,
+      "deaths": 60
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 1930,
+      "deaths": 60
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 1958,
+      "deaths": 61
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 1984,
+      "deaths": 62
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 2006,
+      "deaths": 62
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 2037,
+      "deaths": 62
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 2044,
+      "deaths": 62
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 2058,
+      "deaths": 62
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 2067,
+      "deaths": 62
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 2084,
+      "deaths": 62
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 2091,
+      "deaths": 63
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 2104,
+      "deaths": 64
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 2118,
+      "deaths": 64
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 2138,
+      "deaths": 64
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 2143,
+      "deaths": 64
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 2146,
+      "deaths": 65
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 2165,
+      "deaths": 65
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 2171,
+      "deaths": 65
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 2181,
+      "deaths": 65
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 2193,
+      "deaths": 65
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 2208,
+      "deaths": 66
     }
   ]
 }

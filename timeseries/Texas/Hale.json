@@ -2,7 +2,7 @@
   "city_name": "Hale",
   "state_name": "Texas",
   "lat": "34.07044901",
-  "long": "-101.82681140000001",
+  "long": "-101.8268114",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 41,
       "deaths": 4
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 42,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 43,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 44,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 44,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 49,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 49,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 50,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 50,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 50,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 55,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 55,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 55,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 56,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 56,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 56,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 57,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 58,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 58,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 58,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 60,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 60,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 60,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 60,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 60,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 61,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 61,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 67,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 67,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 76,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 76,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 85,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 85,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 100,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 110,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 110,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 122,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 135,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 139,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 139,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 176,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 178,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 214,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 235,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 235,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 235,
+      "deaths": 7
     }
   ]
 }

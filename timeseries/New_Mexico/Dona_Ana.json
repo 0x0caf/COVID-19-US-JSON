@@ -2,7 +2,7 @@
   "city_name": "Dona Ana",
   "state_name": "New Mexico",
   "lat": "32.35275771",
-  "long": "-106.83293870000001",
+  "long": "-106.8329387",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 259,
       "deaths": 2
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 270,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 282,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 294,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 309,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 319,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 326,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 362,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 370,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 370,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 407,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 423,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 428,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 439,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 442,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 449,
+      "deaths": 3
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 460,
+      "deaths": 3
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 466,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 476,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 479,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 488,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 509,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 535,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 558,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 570,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 587,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 589,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 615,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 632,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 637,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 645,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 658,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 657,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 659,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 676,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 685,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 692,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 700,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 718,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 734,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 740,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 760,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 806,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 842,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 868,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 895,
+      "deaths": 9
     }
   ]
 }

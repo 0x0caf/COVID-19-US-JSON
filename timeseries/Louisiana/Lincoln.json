@@ -2,7 +2,7 @@
   "city_name": "Lincoln",
   "state_name": "Louisiana",
   "lat": "32.6003154",
-  "long": "-92.66597409999999",
+  "long": "-92.6659741",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 116,
       "deaths": 13
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 122,
+      "deaths": 13
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 119,
+      "deaths": 13
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 121,
+      "deaths": 13
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 121,
+      "deaths": 13
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 122,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 122,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 130,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 133,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 133,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 133,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 135,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 138,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 142,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 144,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 144,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 152,
+      "deaths": 14
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 157,
+      "deaths": 14
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 160,
+      "deaths": 14
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 160,
+      "deaths": 14
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 161,
+      "deaths": 16
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 163,
+      "deaths": 16
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 165,
+      "deaths": 17
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 169,
+      "deaths": 17
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 173,
+      "deaths": 17
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 175,
+      "deaths": 17
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 184,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 193,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 196,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 202,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 227,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 235,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 241,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 248,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 259,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 259,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 269,
+      "deaths": 19
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 273,
+      "deaths": 19
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 274,
+      "deaths": 19
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 274,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 281,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 290,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 294,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 300,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 300,
+      "deaths": 18
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 312,
+      "deaths": 18
     }
   ]
 }

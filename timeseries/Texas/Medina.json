@@ -1,7 +1,7 @@
 {
   "city_name": "Medina",
   "state_name": "Texas",
-  "lat": "29.355730100000002",
+  "lat": "29.3557301",
   "long": "-99.11030298",
   "timeline": [
     {
@@ -572,6 +572,231 @@
     {
       "date": "20-5-14",
       "confirmed": 47,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 48,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 49,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 50,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 58,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 59,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 60,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 64,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 64,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 64,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 67,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 67,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 67,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 68,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 69,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 69,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 71,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 73,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 73,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 73,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 74,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 76,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 78,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 216,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 216,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 216,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 216,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 216,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 218,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 220,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 221,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 221,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 221,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 221,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 227,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 228,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 244,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 245,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 250,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 250,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 251,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 255,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 255,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 256,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 254,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 254,
       "deaths": 2
     }
   ]

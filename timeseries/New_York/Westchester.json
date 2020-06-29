@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 31792,
       "deaths": 1256
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 31943,
+      "deaths": 1269
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 32097,
+      "deaths": 1275
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 32224,
+      "deaths": 1289
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 32323,
+      "deaths": 1295
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 32402,
+      "deaths": 1298
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 32517,
+      "deaths": 1305
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 32673,
+      "deaths": 1313
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 32767,
+      "deaths": 1319
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 32881,
+      "deaths": 1327
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 32968,
+      "deaths": 1337
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 33049,
+      "deaths": 1343
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 33107,
+      "deaths": 1345
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 33186,
+      "deaths": 1352
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 33293,
+      "deaths": 1357
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 33349,
+      "deaths": 1359
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 33429,
+      "deaths": 1364
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 33481,
+      "deaths": 1371
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 33552,
+      "deaths": 1374
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 33633,
+      "deaths": 1378
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 33691,
+      "deaths": 1381
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 33767,
+      "deaths": 1385
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 33854,
+      "deaths": 1389
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 33924,
+      "deaths": 1392
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 33954,
+      "deaths": 1392
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 34000,
+      "deaths": 1395
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 34035,
+      "deaths": 1395
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 34076,
+      "deaths": 1399
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 34106,
+      "deaths": 1400
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 34175,
+      "deaths": 1402
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 34253,
+      "deaths": 1404
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 34290,
+      "deaths": 1404
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 34327,
+      "deaths": 1405
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 34358,
+      "deaths": 1405
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 34385,
+      "deaths": 1407
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 34409,
+      "deaths": 1410
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 34455,
+      "deaths": 1410
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 34486,
+      "deaths": 1413
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 34521,
+      "deaths": 1414
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 34557,
+      "deaths": 1415
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 34581,
+      "deaths": 1416
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 34597,
+      "deaths": 1416
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 34642,
+      "deaths": 1416
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 34700,
+      "deaths": 1418
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 34748,
+      "deaths": 1419
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 34780,
+      "deaths": 1419
     }
   ]
 }

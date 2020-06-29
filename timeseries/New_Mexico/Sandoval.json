@@ -2,7 +2,7 @@
   "city_name": "Sandoval",
   "state_name": "New Mexico",
   "lat": "35.68862401",
-  "long": "-106.86878030000001",
+  "long": "-106.8687803",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 479,
       "deaths": 22
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 483,
+      "deaths": 22
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 488,
+      "deaths": 23
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 493,
+      "deaths": 24
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 495,
+      "deaths": 24
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 498,
+      "deaths": 24
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 542,
+      "deaths": 24
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 528,
+      "deaths": 24
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 529,
+      "deaths": 24
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 529,
+      "deaths": 24
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 543,
+      "deaths": 26
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 544,
+      "deaths": 26
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 546,
+      "deaths": 26
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 551,
+      "deaths": 26
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 556,
+      "deaths": 26
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 559,
+      "deaths": 27
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 566,
+      "deaths": 27
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 568,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 568,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 572,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 575,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 578,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 579,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 585,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 597,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 600,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 604,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 604,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 607,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 609,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 616,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 630,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 634,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 642,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 651,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 656,
+      "deaths": 27
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 662,
+      "deaths": 28
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 672,
+      "deaths": 28
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 675,
+      "deaths": 28
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 681,
+      "deaths": 28
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 685,
+      "deaths": 29
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 693,
+      "deaths": 29
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 701,
+      "deaths": 29
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 706,
+      "deaths": 29
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 713,
+      "deaths": 29
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 716,
+      "deaths": 29
     }
   ]
 }

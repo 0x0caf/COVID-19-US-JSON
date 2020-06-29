@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 249,
       "deaths": 8
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 249,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 249,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 249,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 250,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 252,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 251,
+      "deaths": 9
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 254,
+      "deaths": 9
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 257,
+      "deaths": 9
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 258,
+      "deaths": 9
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 265,
+      "deaths": 9
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 267,
+      "deaths": 9
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 268,
+      "deaths": 9
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 276,
+      "deaths": 9
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 278,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 283,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 285,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 285,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 285,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 289,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 297,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 302,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 304,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 308,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 308,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 314,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 320,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 325,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 329,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 333,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 338,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 340,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 345,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 347,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 353,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 353,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 359,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 362,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 371,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 379,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 390,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 401,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 415,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 419,
+      "deaths": 11
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 430,
+      "deaths": 11
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 436,
+      "deaths": 11
     }
   ]
 }

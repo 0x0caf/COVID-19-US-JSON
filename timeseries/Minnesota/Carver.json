@@ -2,7 +2,7 @@
   "city_name": "Carver",
   "state_name": "Minnesota",
   "lat": "44.82017001",
-  "long": "-93.80099179999999",
+  "long": "-93.8009918",
   "timeline": [
     {
       "date": "20-1-22",
@@ -572,6 +572,231 @@
     {
       "date": "20-5-14",
       "confirmed": 103,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 105,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 111,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 113,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 117,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 128,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 131,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 138,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 146,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 154,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 161,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 174,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 182,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 185,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 189,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 201,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 206,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 210,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 218,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 222,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 224,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 232,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 240,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 247,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 250,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 254,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 257,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 261,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 266,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 268,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 269,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 270,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 271,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 276,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 278,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 285,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 287,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 293,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 294,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 297,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 299,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 305,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 308,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 316,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 323,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 333,
       "deaths": 1
     }
   ]

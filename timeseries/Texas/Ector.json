@@ -2,7 +2,7 @@
   "city_name": "Ector",
   "state_name": "Texas",
   "lat": "31.86898877",
-  "long": "-102.54294279999999",
+  "long": "-102.5429428",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 102,
       "deaths": 4
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 103,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 109,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 114,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 114,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 115,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 124,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 130,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 130,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 130,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 144,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 146,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 151,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 152,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 152,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 152,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 154,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 154,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 154,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 161,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 167,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 175,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 185,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 187,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 187,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 187,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 206,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 214,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 221,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 227,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 238,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 238,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 238,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 260,
+      "deaths": 6
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 275,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 289,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 300,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 325,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 325,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 325,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 359,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 396,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 434,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 480,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 506,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 506,
+      "deaths": 7
     }
   ]
 }

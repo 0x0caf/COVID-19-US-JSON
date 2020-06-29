@@ -2,7 +2,7 @@
   "city_name": "Muscatine",
   "state_name": "Iowa",
   "lat": "41.48370744",
-  "long": "-91.11216970000001",
+  "long": "-91.1121697",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 515,
       "deaths": 28
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 519,
+      "deaths": 29
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 524,
+      "deaths": 32
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 532,
+      "deaths": 33
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 532,
+      "deaths": 33
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 531,
+      "deaths": 33
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 535,
+      "deaths": 35
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 540,
+      "deaths": 35
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 540,
+      "deaths": 35
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 541,
+      "deaths": 38
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 543,
+      "deaths": 39
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 545,
+      "deaths": 39
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 545,
+      "deaths": 40
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 547,
+      "deaths": 41
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 549,
+      "deaths": 41
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 554,
+      "deaths": 41
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 556,
+      "deaths": 41
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 557,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 557,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 558,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 563,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 565,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 567,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 568,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 566,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 566,
+      "deaths": 41
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 568,
+      "deaths": 42
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 568,
+      "deaths": 42
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 569,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 571,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 572,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 574,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 574,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 574,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 575,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 577,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 581,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 581,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 583,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 585,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 590,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 590,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 597,
+      "deaths": 43
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 598,
+      "deaths": 44
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 602,
+      "deaths": 44
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 606,
+      "deaths": 44
     }
   ]
 }

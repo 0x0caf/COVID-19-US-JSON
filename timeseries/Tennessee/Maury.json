@@ -1,7 +1,7 @@
 {
   "city_name": "Maury",
   "state_name": "Tennessee",
-  "lat": "35.618741299999996",
+  "lat": "35.6187413",
   "long": "-87.07462444",
   "timeline": [
     {
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 60,
       "deaths": 0
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 60,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 61,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 63,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 68,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 71,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 71,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 74,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 78,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 78,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 78,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 79,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 80,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 81,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 81,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 88,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 89,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 89,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 89,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 102,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 105,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 107,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 108,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 115,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 115,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 116,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 124,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 128,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 139,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 147,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 149,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 152,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 163,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 171,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 177,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 198,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 205,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 218,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 220,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 224,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 241,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 248,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 259,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 267,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 276,
+      "deaths": 3
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 276,
+      "deaths": 3
     }
   ]
 }

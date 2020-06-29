@@ -2,7 +2,7 @@
   "city_name": "Shawnee",
   "state_name": "Kansas",
   "lat": "39.04100763",
-  "long": "-95.75572640000001",
+  "long": "-95.7557264",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 179,
       "deaths": 5
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 184,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 185,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 185,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 198,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 199,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 217,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 234,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 247,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 247,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 254,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 263,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 269,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 270,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 274,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 294,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 300,
+      "deaths": 7
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 300,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 324,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 326,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 334,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 348,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 367,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 372,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 372,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 384,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 394,
+      "deaths": 7
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 409,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 420,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 435,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 438,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 438,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 457,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 452,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 456,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 469,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 477,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 491,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 491,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 503,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 509,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 535,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 546,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 576,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 596,
+      "deaths": 9
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 596,
+      "deaths": 9
     }
   ]
 }

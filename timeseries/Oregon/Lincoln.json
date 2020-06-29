@@ -2,7 +2,7 @@
   "city_name": "Lincoln",
   "state_name": "Oregon",
   "lat": "44.64252874",
-  "long": "-123.86991200000001",
+  "long": "-123.869912",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 6,
       "deaths": 0
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 11,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 12,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 12,
+      "deaths": 0
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 12,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 15,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 17,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 18,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 23,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 27,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 27,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 33,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 155,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 157,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 161,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 170,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 184,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 184,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 206,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 206,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 223,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 226,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 230,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 261,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 284,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 286,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 292,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 292,
+      "deaths": 1
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 301,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 301,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 305,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 307,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 310,
+      "deaths": 2
     }
   ]
 }

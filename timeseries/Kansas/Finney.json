@@ -2,7 +2,7 @@
   "city_name": "Finney",
   "state_name": "Kansas",
   "lat": "38.04340344",
-  "long": "-100.73819379999999",
+  "long": "-100.7381938",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 1175,
       "deaths": 5
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 1234,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 1234,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 1234,
+      "deaths": 5
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 1316,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 1331,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 1363,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 1398,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 1418,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 1418,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 1418,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 1418,
+      "deaths": 6
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 1451,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 1458,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 1466,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 1481,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 1481,
+      "deaths": 8
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 1481,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 1502,
+      "deaths": 8
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 1504,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 1518,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 1522,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 1526,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 1526,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 1526,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 1536,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 1536,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 1537,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 1537,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 1538,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 1538,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 1538,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 1540,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 1543,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 1545,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 1545,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 1546,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 1546,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 1546,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 1554,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 1558,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 1558,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 1562,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 1563,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 1563,
+      "deaths": 10
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 1563,
+      "deaths": 10
     }
   ]
 }

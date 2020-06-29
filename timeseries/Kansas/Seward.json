@@ -2,7 +2,7 @@
   "city_name": "Seward",
   "state_name": "Kansas",
   "lat": "37.19324632",
-  "long": "-100.85072009999999",
+  "long": "-100.8507201",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 754,
       "deaths": 1
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 758,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 758,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 758,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 780,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 780,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 810,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 817,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 821,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 821,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 821,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 822,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 837,
+      "deaths": 1
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 849,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 856,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 883,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 883,
+      "deaths": 2
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 883,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 879,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 883,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 888,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 891,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 891,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 891,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 891,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 900,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 904,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 917,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 917,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 924,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 924,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 924,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 934,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 934,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 940,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 940,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 955,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 955,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 955,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 968,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 968,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 991,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 991,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 1001,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 1001,
+      "deaths": 2
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 1001,
+      "deaths": 2
     }
   ]
 }

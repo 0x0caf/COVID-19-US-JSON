@@ -2,7 +2,7 @@
   "city_name": "Sonoma",
   "state_name": "California",
   "lat": "38.52746429",
-  "long": "-122.88625060000001",
+  "long": "-122.8862506",
   "timeline": [
     {
       "date": "20-1-22",
@@ -573,6 +573,231 @@
       "date": "20-5-14",
       "confirmed": 337,
       "deaths": 4
+    },
+    {
+      "date": "20-5-15",
+      "confirmed": 351,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-16",
+      "confirmed": 364,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-17",
+      "confirmed": 373,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-18",
+      "confirmed": 387,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-19",
+      "confirmed": 391,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-20",
+      "confirmed": 411,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-21",
+      "confirmed": 433,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-22",
+      "confirmed": 444,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-23",
+      "confirmed": 467,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-24",
+      "confirmed": 482,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-25",
+      "confirmed": 500,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-26",
+      "confirmed": 515,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-27",
+      "confirmed": 524,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-28",
+      "confirmed": 530,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-29",
+      "confirmed": 531,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-30",
+      "confirmed": 548,
+      "deaths": 4
+    },
+    {
+      "date": "20-5-31",
+      "confirmed": 553,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-1",
+      "confirmed": 564,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-2",
+      "confirmed": 566,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-3",
+      "confirmed": 579,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-4",
+      "confirmed": 593,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-5",
+      "confirmed": 610,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-6",
+      "confirmed": 624,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-7",
+      "confirmed": 642,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-8",
+      "confirmed": 653,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-9",
+      "confirmed": 664,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-10",
+      "confirmed": 671,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-11",
+      "confirmed": 680,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-12",
+      "confirmed": 701,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-13",
+      "confirmed": 722,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-14",
+      "confirmed": 752,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-15",
+      "confirmed": 758,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-16",
+      "confirmed": 765,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-17",
+      "confirmed": 774,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-18",
+      "confirmed": 803,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-19",
+      "confirmed": 822,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-20",
+      "confirmed": 835,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-21",
+      "confirmed": 853,
+      "deaths": 4
+    },
+    {
+      "date": "20-6-22",
+      "confirmed": 885,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-23",
+      "confirmed": 935,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-24",
+      "confirmed": 956,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-25",
+      "confirmed": 974,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-26",
+      "confirmed": 1006,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-27",
+      "confirmed": 1006,
+      "deaths": 5
+    },
+    {
+      "date": "20-6-28",
+      "confirmed": 1092,
+      "deaths": 5
     }
   ]
 }
