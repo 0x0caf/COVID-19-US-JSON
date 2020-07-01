@@ -798,6 +798,16 @@
       "date": "20-6-28",
       "confirmed": 423,
       "deaths": 0
+    },
+    {
+      "date": "20-6-29",
+      "confirmed": 428,
+      "deaths": 0
+    },
+    {
+      "date": "20-6-30",
+      "confirmed": 426,
+      "deaths": 0
     }
   ]
 }

@@ -666,32 +666,32 @@
     },
     {
       "date": "20-6-2",
-      "confirmed": 1751,
+      "confirmed": 1755,
       "deaths": 57
     },
     {
       "date": "20-6-3",
-      "confirmed": 1751,
+      "confirmed": 1806,
       "deaths": 57
     },
     {
       "date": "20-6-4",
-      "confirmed": 1751,
+      "confirmed": 1862,
       "deaths": 57
     },
     {
       "date": "20-6-5",
-      "confirmed": 1934,
+      "confirmed": 1939,
       "deaths": 59
     },
     {
       "date": "20-6-6",
-      "confirmed": 1934,
+      "confirmed": 2019,
       "deaths": 59
     },
     {
       "date": "20-6-7",
-      "confirmed": 2060,
+      "confirmed": 2076,
       "deaths": 59
     },
     {
@@ -798,6 +798,16 @@
       "date": "20-6-28",
       "confirmed": 4741,
       "deaths": 80
+    },
+    {
+      "date": "20-6-29",
+      "confirmed": 4895,
+      "deaths": 80
+    },
+    {
+      "date": "20-6-30",
+      "confirmed": 5009,
+      "deaths": 81
     }
   ]
 }
