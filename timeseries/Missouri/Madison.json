@@ -2,7 +2,7 @@
   "city_name": "Madison",
   "state_name": "Missouri",
   "lat": "37.47865134",
-  "long": "-90.3467143",
+  "long": "-90.34671429999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -801,12 +801,17 @@
     },
     {
       "date": "20-6-29",
-      "confirmed": 4,
+      "confirmed": 6,
       "deaths": 0
     },
     {
       "date": "20-6-30",
-      "confirmed": 4,
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 6,
       "deaths": 0
     }
   ]

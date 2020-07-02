@@ -2,7 +2,7 @@
   "city_name": "Johnson",
   "state_name": "Wyoming",
   "lat": "44.04057166",
-  "long": "-106.5845174",
+  "long": "-106.58451740000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 20,
+      "deaths": 1
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 20,
       "deaths": 1
     }

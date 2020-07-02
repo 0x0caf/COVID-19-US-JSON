@@ -1,7 +1,7 @@
 {
   "city_name": "Foster",
   "state_name": "North Dakota",
-  "lat": "47.4571084",
+  "lat": "47.457108399999996",
   "long": "-98.88279923",
   "timeline": [
     {
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 2,
       "deaths": 0
     }

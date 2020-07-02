@@ -2,7 +2,7 @@
   "city_name": "Amador",
   "state_name": "California",
   "lat": "38.44583082",
-  "long": "-120.65696",
+  "long": "-120.65696000000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 22,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 24,
       "deaths": 0
     }
   ]

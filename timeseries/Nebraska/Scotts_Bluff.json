@@ -2,7 +2,7 @@
   "city_name": "Scotts Bluff",
   "state_name": "Nebraska",
   "lat": "41.85070896",
-  "long": "-103.7080986",
+  "long": "-103.70809859999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 215,
+      "deaths": 3
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 216,
       "deaths": 3
     }
   ]

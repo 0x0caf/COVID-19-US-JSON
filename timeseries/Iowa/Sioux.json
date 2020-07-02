@@ -2,7 +2,7 @@
   "city_name": "Sioux",
   "state_name": "Iowa",
   "lat": "43.08221074",
-  "long": "-96.1767568",
+  "long": "-96.17675679999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 455,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 457,
       "deaths": 0
     }
   ]

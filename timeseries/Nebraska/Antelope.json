@@ -2,7 +2,7 @@
   "city_name": "Antelope",
   "state_name": "Nebraska",
   "lat": "42.17695516",
-  "long": "-98.0666283",
+  "long": "-98.06662829999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 9,
+      "deaths": 1
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 9,
       "deaths": 1
     }

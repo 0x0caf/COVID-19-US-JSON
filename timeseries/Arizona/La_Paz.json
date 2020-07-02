@@ -2,7 +2,7 @@
   "city_name": "La Paz",
   "state_name": "Arizona",
   "lat": "33.72854224",
-  "long": "-113.9810029",
+  "long": "-113.98100290000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 342,
+      "deaths": 5
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 345,
       "deaths": 5
     }
   ]

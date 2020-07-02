@@ -2,7 +2,7 @@
   "city_name": "Burke",
   "state_name": "North Dakota",
   "lat": "48.79094471",
-  "long": "-102.5182117",
+  "long": "-102.51821170000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 5,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 5,
       "deaths": 0
     }

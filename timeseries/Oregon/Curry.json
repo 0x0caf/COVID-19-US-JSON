@@ -2,7 +2,7 @@
   "city_name": "Curry",
   "state_name": "Oregon",
   "lat": "42.45911325",
-  "long": "-124.157282",
+  "long": "-124.15728200000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 7,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 7,
       "deaths": 0
     }

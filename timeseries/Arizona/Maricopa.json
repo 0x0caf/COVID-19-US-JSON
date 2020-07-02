@@ -2,7 +2,7 @@
   "city_name": "Maricopa",
   "state_name": "Arizona",
   "lat": "33.34835867",
-  "long": "-112.4918154",
+  "long": "-112.49181540000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -808,6 +808,11 @@
       "date": "20-6-30",
       "confirmed": 48592,
       "deaths": 771
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 52266,
+      "deaths": 817
     }
   ]
 }

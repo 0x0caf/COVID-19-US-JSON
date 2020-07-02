@@ -2,7 +2,7 @@
   "city_name": "Collingsworth",
   "state_name": "Texas",
   "lat": "34.96489496",
-  "long": "-100.2700111",
+  "long": "-100.27001109999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 6,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 6,
       "deaths": 0
     }

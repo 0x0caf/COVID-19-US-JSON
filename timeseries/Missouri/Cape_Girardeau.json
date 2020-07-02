@@ -796,17 +796,22 @@
     },
     {
       "date": "20-6-28",
-      "confirmed": 141,
+      "confirmed": 145,
       "deaths": 3
     },
     {
       "date": "20-6-29",
-      "confirmed": 141,
+      "confirmed": 153,
       "deaths": 3
     },
     {
       "date": "20-6-30",
-      "confirmed": 141,
+      "confirmed": 161,
+      "deaths": 3
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 171,
       "deaths": 3
     }
   ]

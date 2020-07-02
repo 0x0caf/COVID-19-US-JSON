@@ -2,7 +2,7 @@
   "city_name": "Lawrence",
   "state_name": "South Dakota",
   "lat": "44.35919441",
-  "long": "-103.7929428",
+  "long": "-103.79294279999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 19,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 19,
       "deaths": 0
     }

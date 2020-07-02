@@ -722,92 +722,97 @@
     {
       "date": "20-6-13",
       "confirmed": 819,
-      "deaths": 22
+      "deaths": 24
     },
     {
       "date": "20-6-14",
       "confirmed": 819,
-      "deaths": 22
+      "deaths": 26
     },
     {
       "date": "20-6-15",
       "confirmed": 865,
-      "deaths": 22
+      "deaths": 26
     },
     {
       "date": "20-6-16",
       "confirmed": 889,
-      "deaths": 22
+      "deaths": 26
     },
     {
       "date": "20-6-17",
       "confirmed": 916,
-      "deaths": 22
+      "deaths": 27
     },
     {
       "date": "20-6-18",
       "confirmed": 933,
-      "deaths": 22
+      "deaths": 27
     },
     {
       "date": "20-6-19",
       "confirmed": 976,
-      "deaths": 22
+      "deaths": 27
     },
     {
       "date": "20-6-20",
       "confirmed": 1016,
-      "deaths": 22
+      "deaths": 30
     },
     {
       "date": "20-6-21",
       "confirmed": 1018,
-      "deaths": 22
+      "deaths": 32
     },
     {
       "date": "20-6-22",
       "confirmed": 1030,
-      "deaths": 23
+      "deaths": 33
     },
     {
       "date": "20-6-23",
       "confirmed": 1054,
-      "deaths": 23
+      "deaths": 35
     },
     {
       "date": "20-6-24",
       "confirmed": 1076,
-      "deaths": 23
+      "deaths": 36
     },
     {
       "date": "20-6-25",
       "confirmed": 1074,
-      "deaths": 23
+      "deaths": 36
     },
     {
       "date": "20-6-26",
       "confirmed": 1103,
-      "deaths": 24
+      "deaths": 36
     },
     {
       "date": "20-6-27",
       "confirmed": 1126,
-      "deaths": 24
+      "deaths": 36
     },
     {
       "date": "20-6-28",
-      "confirmed": 1126,
-      "deaths": 24
+      "confirmed": 1149,
+      "deaths": 36
     },
     {
       "date": "20-6-29",
-      "confirmed": 1126,
-      "deaths": 24
+      "confirmed": 1172,
+      "deaths": 36
     },
     {
       "date": "20-6-30",
-      "confirmed": 1126,
-      "deaths": 24
+      "confirmed": 1210,
+      "deaths": 36
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 1226,
+      "deaths": 37
     }
   ]
 }

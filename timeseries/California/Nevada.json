@@ -2,7 +2,7 @@
   "city_name": "Nevada",
   "state_name": "California",
   "lat": "39.30394768",
-  "long": "-120.7627281",
+  "long": "-120.76272809999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 113,
+      "deaths": 1
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 117,
       "deaths": 1
     }
   ]

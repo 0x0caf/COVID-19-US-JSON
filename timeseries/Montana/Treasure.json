@@ -2,7 +2,7 @@
   "city_name": "Treasure",
   "state_name": "Montana",
   "lat": "46.20973220000001",
-  "long": "-107.2666516",
+  "long": "-107.26665159999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 2,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 2,
       "deaths": 0
     }

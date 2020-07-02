@@ -808,6 +808,11 @@
       "date": "20-6-30",
       "confirmed": 630,
       "deaths": 30
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 648,
+      "deaths": 30
     }
   ]
 }

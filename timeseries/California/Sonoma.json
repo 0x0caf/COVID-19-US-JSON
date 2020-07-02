@@ -2,7 +2,7 @@
   "city_name": "Sonoma",
   "state_name": "California",
   "lat": "38.52746429",
-  "long": "-122.8862506",
+  "long": "-122.88625060000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 1136,
+      "deaths": 7
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 1185,
       "deaths": 7
     }
   ]

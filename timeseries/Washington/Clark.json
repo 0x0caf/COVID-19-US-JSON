@@ -2,7 +2,7 @@
   "city_name": "Clark",
   "state_name": "Washington",
   "lat": "45.77568046",
-  "long": "-122.4829204",
+  "long": "-122.48292040000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 731,
+      "deaths": 30
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 749,
       "deaths": 30
     }
   ]

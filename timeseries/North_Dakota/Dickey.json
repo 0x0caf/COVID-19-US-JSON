@@ -2,7 +2,7 @@
   "city_name": "Dickey",
   "state_name": "North Dakota",
   "lat": "46.11017712",
-  "long": "-98.5049008",
+  "long": "-98.50490079999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 4,
       "deaths": 0
     }

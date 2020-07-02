@@ -792,22 +792,27 @@
     {
       "date": "20-6-27",
       "confirmed": 447,
-      "deaths": 3
+      "deaths": 1
     },
     {
       "date": "20-6-28",
       "confirmed": 447,
-      "deaths": 3
+      "deaths": 1
     },
     {
       "date": "20-6-29",
       "confirmed": 447,
-      "deaths": 3
+      "deaths": 1
     },
     {
       "date": "20-6-30",
-      "confirmed": 447,
-      "deaths": 3
+      "confirmed": 449,
+      "deaths": 1
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 474,
+      "deaths": 1
     }
   ]
 }

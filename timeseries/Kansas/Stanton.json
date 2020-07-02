@@ -2,7 +2,7 @@
   "city_name": "Stanton",
   "state_name": "Kansas",
   "lat": "37.56304714",
-  "long": "-101.7843534",
+  "long": "-101.78435340000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 10,
       "deaths": 0
     }

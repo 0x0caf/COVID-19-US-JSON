@@ -2,7 +2,7 @@
   "city_name": "Grant",
   "state_name": "North Dakota",
   "lat": "46.35821257",
-  "long": "-101.6390013",
+  "long": "-101.63900129999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 3,
       "deaths": 0
     }

@@ -2,7 +2,7 @@
   "city_name": "Sheridan",
   "state_name": "Kansas",
   "lat": "39.35018161",
-  "long": "-100.4418259",
+  "long": "-100.44182590000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 4,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 5,
       "deaths": 0
     }
   ]

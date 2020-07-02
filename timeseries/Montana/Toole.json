@@ -2,7 +2,7 @@
   "city_name": "Toole",
   "state_name": "Montana",
   "lat": "48.65577551",
-  "long": "-111.6942414",
+  "long": "-111.69424140000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 31,
+      "deaths": 6
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 31,
       "deaths": 6
     }

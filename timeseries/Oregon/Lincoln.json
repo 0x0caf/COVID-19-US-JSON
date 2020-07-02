@@ -2,7 +2,7 @@
   "city_name": "Lincoln",
   "state_name": "Oregon",
   "lat": "44.64252874",
-  "long": "-123.869912",
+  "long": "-123.86991200000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 312,
+      "deaths": 2
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 324,
       "deaths": 2
     }
   ]

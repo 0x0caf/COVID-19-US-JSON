@@ -2,7 +2,7 @@
   "city_name": "Sheridan",
   "state_name": "Montana",
   "lat": "48.72085833",
-  "long": "-104.503829",
+  "long": "-104.50382900000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 0,
       "deaths": 0
     }

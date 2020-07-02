@@ -2,7 +2,7 @@
   "city_name": "Siskiyou",
   "state_name": "California",
   "lat": "41.59198861",
-  "long": "-122.5407434",
+  "long": "-122.54074340000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 28,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 31,
       "deaths": 0
     }
   ]

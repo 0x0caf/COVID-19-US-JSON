@@ -1,7 +1,7 @@
 {
   "city_name": "Perry",
   "state_name": "Arkansas",
-  "lat": "34.9459153",
+  "lat": "34.945915299999996",
   "long": "-92.94372564",
   "timeline": [
     {
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 29,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 32,
       "deaths": 0
     }
   ]

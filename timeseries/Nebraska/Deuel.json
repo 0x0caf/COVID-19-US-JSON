@@ -2,7 +2,7 @@
   "city_name": "Deuel",
   "state_name": "Nebraska",
   "lat": "41.11168186",
-  "long": "-102.3333331",
+  "long": "-102.33333309999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 0,
       "deaths": 0
     }

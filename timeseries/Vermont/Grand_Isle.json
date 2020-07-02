@@ -1,7 +1,7 @@
 {
   "city_name": "Grand Isle",
   "state_name": "Vermont",
-  "lat": "44.7975824",
+  "lat": "44.797582399999996",
   "long": "-73.29679772",
   "timeline": [
     {
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 10,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 10,
       "deaths": 0
     }

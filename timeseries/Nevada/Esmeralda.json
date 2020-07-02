@@ -2,7 +2,7 @@
   "city_name": "Esmeralda",
   "state_name": "Nevada",
   "lat": "37.78436681",
-  "long": "-117.6319999",
+  "long": "-117.63199990000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 0,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 0,
       "deaths": 0
     }

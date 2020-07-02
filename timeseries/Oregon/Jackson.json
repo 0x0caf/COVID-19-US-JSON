@@ -2,7 +2,7 @@
   "city_name": "Jackson",
   "state_name": "Oregon",
   "lat": "42.43201126",
-  "long": "-122.7289309",
+  "long": "-122.72893090000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 114,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 117,
       "deaths": 0
     }
   ]

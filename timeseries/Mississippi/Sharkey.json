@@ -2,7 +2,7 @@
   "city_name": "Sharkey",
   "state_name": "Mississippi",
   "lat": "32.88149103",
-  "long": "-90.8159538",
+  "long": "-90.81595379999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 24,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 24,
       "deaths": 0
     }

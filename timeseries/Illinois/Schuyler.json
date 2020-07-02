@@ -1,7 +1,7 @@
 {
   "city_name": "Schuyler",
   "state_name": "Illinois",
-  "lat": "40.1571798",
+  "lat": "40.157179799999994",
   "long": "-90.61114163",
   "timeline": [
     {
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 13,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 13,
       "deaths": 0
     }

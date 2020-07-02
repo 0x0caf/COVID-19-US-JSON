@@ -2,7 +2,7 @@
   "city_name": "Todd",
   "state_name": "South Dakota",
   "lat": "43.19338568",
-  "long": "-100.7195503",
+  "long": "-100.71955030000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 57,
+      "deaths": 1
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 57,
       "deaths": 1
     }

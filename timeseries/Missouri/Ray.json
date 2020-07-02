@@ -1,7 +1,7 @@
 {
   "city_name": "Ray",
   "state_name": "Missouri",
-  "lat": "39.3537468",
+  "lat": "39.353746799999996",
   "long": "-93.98905745",
   "timeline": [
     {
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 25,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 26,
       "deaths": 0
     }
   ]

@@ -801,12 +801,17 @@
     },
     {
       "date": "20-6-29",
-      "confirmed": 49,
+      "confirmed": 50,
       "deaths": 1
     },
     {
       "date": "20-6-30",
-      "confirmed": 49,
+      "confirmed": 52,
+      "deaths": 1
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 52,
       "deaths": 1
     }
   ]

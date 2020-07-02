@@ -2,7 +2,7 @@
   "city_name": "Golden Valley",
   "state_name": "Montana",
   "lat": "46.3816474",
-  "long": "-109.1768522",
+  "long": "-109.17685220000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 3,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 3,
       "deaths": 0
     }

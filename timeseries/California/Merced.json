@@ -2,7 +2,7 @@
   "city_name": "Merced",
   "state_name": "California",
   "lat": "37.18922369",
-  "long": "-120.7209035",
+  "long": "-120.72090349999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 979,
+      "deaths": 11
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 1131,
       "deaths": 11
     }
   ]

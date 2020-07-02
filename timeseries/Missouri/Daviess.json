@@ -806,7 +806,12 @@
     },
     {
       "date": "20-6-30",
-      "confirmed": 8,
+      "confirmed": 9,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 9,
       "deaths": 0
     }
   ]

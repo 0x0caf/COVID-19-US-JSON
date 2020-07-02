@@ -2,7 +2,7 @@
   "city_name": "Los Angeles",
   "state_name": "California",
   "lat": "34.30828379",
-  "long": "-118.2282411",
+  "long": "-118.22824109999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -808,6 +808,11 @@
       "date": "20-6-30",
       "confirmed": 103850,
       "deaths": 3371
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 105665,
+      "deaths": 3405
     }
   ]
 }

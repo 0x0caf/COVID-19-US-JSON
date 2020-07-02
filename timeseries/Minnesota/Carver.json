@@ -2,7 +2,7 @@
   "city_name": "Carver",
   "state_name": "Minnesota",
   "lat": "44.82017001",
-  "long": "-93.8009918",
+  "long": "-93.80099179999999",
   "timeline": [
     {
       "date": "20-1-22",
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 340,
+      "deaths": 1
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 348,
       "deaths": 1
     }
   ]

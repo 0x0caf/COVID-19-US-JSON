@@ -2,7 +2,7 @@
   "city_name": "Los Alamos",
   "state_name": "New Mexico",
   "lat": "35.86631386",
-  "long": "-106.3134985",
+  "long": "-106.31349850000001",
   "timeline": [
     {
       "date": "20-1-22",
@@ -806,6 +806,11 @@
     },
     {
       "date": "20-6-30",
+      "confirmed": 8,
+      "deaths": 0
+    },
+    {
+      "date": "20-7-1",
       "confirmed": 8,
       "deaths": 0
     }

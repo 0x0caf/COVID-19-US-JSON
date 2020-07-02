@@ -1,7 +1,7 @@
 {
   "city_name": "Brown",
   "state_name": "Wisconsin",
-  "lat": "44.4526553",
+  "lat": "44.452655299999996",
   "long": "-88.00411844",
   "timeline": [
     {
@@ -807,6 +807,11 @@
     {
       "date": "20-6-30",
       "confirmed": 2873,
+      "deaths": 42
+    },
+    {
+      "date": "20-7-1",
+      "confirmed": 2916,
       "deaths": 42
     }
   ]
