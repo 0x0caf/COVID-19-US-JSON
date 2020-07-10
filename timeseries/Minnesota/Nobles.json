@@ -813,6 +813,46 @@
       "date": "20-7-1",
       "confirmed": 1655,
       "deaths": 6
+    },
+    {
+      "date": "20-7-2",
+      "confirmed": 1661,
+      "deaths": 6
+    },
+    {
+      "date": "20-7-3",
+      "confirmed": 1662,
+      "deaths": 6
+    },
+    {
+      "date": "20-7-4",
+      "confirmed": 1662,
+      "deaths": 6
+    },
+    {
+      "date": "20-7-5",
+      "confirmed": 1668,
+      "deaths": 6
+    },
+    {
+      "date": "20-7-6",
+      "confirmed": 1669,
+      "deaths": 6
+    },
+    {
+      "date": "20-7-7",
+      "confirmed": 1672,
+      "deaths": 6
+    },
+    {
+      "date": "20-7-8",
+      "confirmed": 1672,
+      "deaths": 6
+    },
+    {
+      "date": "20-7-9",
+      "confirmed": 1676,
+      "deaths": 6
     }
   ]
 }

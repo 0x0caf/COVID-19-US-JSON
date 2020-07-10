@@ -813,6 +813,46 @@
       "date": "20-7-1",
       "confirmed": 1906,
       "deaths": 136
+    },
+    {
+      "date": "20-7-2",
+      "confirmed": 1927,
+      "deaths": 137
+    },
+    {
+      "date": "20-7-3",
+      "confirmed": 1965,
+      "deaths": 137
+    },
+    {
+      "date": "20-7-4",
+      "confirmed": 1988,
+      "deaths": 137
+    },
+    {
+      "date": "20-7-5",
+      "confirmed": 2017,
+      "deaths": 137
+    },
+    {
+      "date": "20-7-6",
+      "confirmed": 2037,
+      "deaths": 137
+    },
+    {
+      "date": "20-7-7",
+      "confirmed": 2054,
+      "deaths": 138
+    },
+    {
+      "date": "20-7-8",
+      "confirmed": 2089,
+      "deaths": 143
+    },
+    {
+      "date": "20-7-9",
+      "confirmed": 2128,
+      "deaths": 144
     }
   ]
 }

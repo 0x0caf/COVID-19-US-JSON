@@ -813,6 +813,46 @@
       "date": "20-7-1",
       "confirmed": 249,
       "deaths": 2
+    },
+    {
+      "date": "20-7-2",
+      "confirmed": 259,
+      "deaths": 2
+    },
+    {
+      "date": "20-7-3",
+      "confirmed": 260,
+      "deaths": 2
+    },
+    {
+      "date": "20-7-4",
+      "confirmed": 264,
+      "deaths": 2
+    },
+    {
+      "date": "20-7-5",
+      "confirmed": 267,
+      "deaths": 2
+    },
+    {
+      "date": "20-7-6",
+      "confirmed": 266,
+      "deaths": 3
+    },
+    {
+      "date": "20-7-7",
+      "confirmed": 266,
+      "deaths": 3
+    },
+    {
+      "date": "20-7-8",
+      "confirmed": 282,
+      "deaths": 3
+    },
+    {
+      "date": "20-7-9",
+      "confirmed": 285,
+      "deaths": 3
     }
   ]
 }

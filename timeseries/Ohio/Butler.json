@@ -813,6 +813,46 @@
       "date": "20-7-1",
       "confirmed": 1448,
       "deaths": 44
+    },
+    {
+      "date": "20-7-2",
+      "confirmed": 1448,
+      "deaths": 44
+    },
+    {
+      "date": "20-7-3",
+      "confirmed": 1511,
+      "deaths": 44
+    },
+    {
+      "date": "20-7-4",
+      "confirmed": 1547,
+      "deaths": 44
+    },
+    {
+      "date": "20-7-5",
+      "confirmed": 1576,
+      "deaths": 44
+    },
+    {
+      "date": "20-7-6",
+      "confirmed": 1599,
+      "deaths": 44
+    },
+    {
+      "date": "20-7-7",
+      "confirmed": 1637,
+      "deaths": 47
+    },
+    {
+      "date": "20-7-8",
+      "confirmed": 1674,
+      "deaths": 47
+    },
+    {
+      "date": "20-7-9",
+      "confirmed": 1721,
+      "deaths": 47
     }
   ]
 }
